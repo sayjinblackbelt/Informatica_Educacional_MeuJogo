@@ -1,4 +1,4 @@
-# Informatica_Educacional_MeuJogo# 🎮 Informática Educacional — Meu Jogo
+# 🎮 Informática Educacional — Meu Jogo
 
 Projeto de criação de histórias e jogos desenvolvido pelos educandos da oficina de Informática Educacional da Fundação Eufraten.
 
