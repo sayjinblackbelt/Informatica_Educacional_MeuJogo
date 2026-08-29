@@ -61,6 +61,27 @@ Os projetos podem ser realizados em duplas ou trios e podem resultar em históri
 
 > **No final da história, o protagonista precisa estar mais próximo de seu propósito do que estava no começo.**
 
+## 🚀 Status do projeto
+
+🟡 **Em desenvolvimento ativo.** O projeto Meu Jogo será construído progressivamente conforme os educandos consolidarem competências digitais, criatividade, storytelling e resolução de problemas.
+
+### Caminho de evolução
+
+**Ideia → Personagem → Mundo → História → Desafios → Protótipo → Produto Digital → Jogo**
+
+O educando não precisa começar criando um jogo completo: cada etapa pode gerar um produto significativo e servir como base para a próxima.
+
+## 🗺️ Próximas etapas
+
+- Consolidar competências digitais fundamentais.
+- Desenvolver atividades de criatividade e storytelling.
+- Criar personagens e mundos.
+- Estruturar desafios narrativos.
+- Desenvolver protótipos.
+- Definir e testar ferramentas para criação dos jogos.
+- Produzir os primeiros projetos jogáveis.
+- Registrar resultados e aprendizados.
+
 ## 🗂️ Estrutura do repositório
 
 ```text
@@ -94,7 +115,7 @@ Informatica_Educacional_MeuJogo/
 
 ## 🔐 Segurança e privacidade
 
-O projeto trata segurança digital como parte do currículo. O repositório público não deve conter dados pessoais de educandos, respostas individuais, listas de presença identificáveis, credenciais, tokens ou chaves de API.
+O projeto trata segurança digital como parte do currículo. Dados fictícios, anonimizados ou agregados devem ser utilizados sempre que necessário para documentação pública. O repositório público não deve conter dados pessoais de educandos, respostas individuais, listas de presença identificáveis, credenciais, tokens ou chaves de API.
 
 ## 📈 Avaliação
 
