@@ -150,6 +150,15 @@ Podem ser utilizados diagnósticos, atividades práticas, revisões, desafios e 
 
 ## 👨‍🏫 Autor
 
-**Filipe Gimenes de Morais**
+**Filipe G Morais**
 
 Projeto profissional e pedagógico em desenvolvimento na área de Educação, Tecnologia Educacional e Inclusão Digital.
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/Informatica_Educacional_MeuJogo
