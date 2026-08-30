@@ -1,15 +1,23 @@
 # 🎮 Informática Educacional — Meu Jogo
 
-Projeto da oficina de **Informática Educacional** da **Fundação Eufraten**, voltado principalmente para educandos de **11 a 13 anos**.
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
 
-O repositório reúne o planejamento pedagógico, materiais, avaliações, recursos digitais e projetos desenvolvidos ao longo do curso. O eixo **Meu Jogo** utiliza criação de histórias e jogos como estratégia para desenvolver criatividade, organização do pensamento, raciocínio, resolução de problemas, colaboração, expressão e autoconhecimento.
+> Projeto pedagógico e profissional de educação digital voltado ao desenvolvimento de autonomia tecnológica, criatividade, raciocínio, resolução de problemas e expressão por meio da criação de histórias e jogos.
+
+## 📌 Sobre o projeto
+
+Este repositório reúne planejamento pedagógico, materiais, avaliações, recursos digitais e projetos desenvolvidos em uma oficina de **Informática Educacional**.
+
+O eixo **Meu Jogo** utiliza a criação de histórias e jogos como estratégia para desenvolver criatividade, organização do pensamento, raciocínio, resolução de problemas, colaboração, expressão e autoconhecimento.
+
+Para preservar o caráter público e reutilizável do portfólio, o projeto é apresentado de forma independente, sem vinculação nominal a instituições específicas.
 
 ## 🎯 Propósito
 
-Desenvolver autonomia digital por meio de experiências práticas, acessíveis e significativas, levando os educandos a:
+Desenvolver autonomia digital por meio de experiências práticas, acessíveis e significativas, levando os participantes a:
 
 - compreender e utilizar o computador;
-- desenvolver habilidades digitais básicas;
+- desenvolver habilidades digitais fundamentais;
 - criar e organizar arquivos e conteúdos;
 - pesquisar e utilizar a internet de forma segura;
 - criar projetos digitais;
@@ -17,20 +25,19 @@ Desenvolver autonomia digital por meio de experiências práticas, acessíveis e
 
 ## 👥 Público e contexto
 
-- **Instituição:** Fundação Eufraten
-- **Oficina:** Informática Educacional
-- **Faixa etária:** 11 a 13 anos
+- **Área:** Informática Educacional
+- **Faixa etária principal:** aproximadamente 11 a 13 anos
 - **Ambiente:** laboratório de informática
-- **Modelo:** 1 computador por educando
-- **Perfil:** níveis variados de familiaridade com tecnologia, incluindo educandos com pouco contato com computadores e diferentes necessidades de aprendizagem.
+- **Modelo:** prática individual ou colaborativa com computadores
+- **Perfil:** níveis variados de familiaridade com tecnologia e diferentes necessidades de aprendizagem
 
 ## 🧠 Abordagem pedagógica
 
 A oficina utiliza explicações simples, demonstrações, prática guiada, atividades individuais, repetição inteligente, desafios e reflexão.
 
-Quando adequado, a aula recebe elementos de **gamificação** — missões, níveis, XP e desafios — para favorecer participação e persistência. A gamificação não deve ser utilizada para expor ou excluir educandos.
+Quando adequado, são utilizados elementos de **gamificação** — missões, níveis, XP e desafios — para favorecer participação e persistência. A gamificação não deve ser utilizada para expor, rotular ou excluir participantes.
 
-O trabalho também dialoga com a **Pedagogia Heulosófica** praticada na instituição, incluindo os cinco movimentos do autoconhecimento:
+O percurso pedagógico é organizado em torno de cinco movimentos:
 
 1. Observar
 2. Refletir
@@ -43,7 +50,7 @@ O trabalho também dialoga com a **Pedagogia Heulosófica** praticada na institu
 A progressão foi organizada em quatro níveis pedagógicos:
 
 1. **Explorador Digital** — reconhecer o computador e suas partes.
-2. **Aprendiz de Tecnologia** — utilizar Windows, teclado, mouse, arquivos e ferramentas básicas.
+2. **Aprendiz de Tecnologia** — utilizar sistema operacional, teclado, mouse, arquivos e ferramentas básicas.
 3. **Criador Digital** — produzir textos, apresentações, pesquisas e projetos.
 4. **Mestre da Informática** — trabalhar com maior autonomia e resolver desafios simples.
 
@@ -55,21 +62,17 @@ A narrativa de referência é:
 
 **Propósito → Personagem → Mundo → Problema → Desafios → Escolhas → Transformação → Final**
 
-Os projetos podem ser realizados em duplas ou trios e podem resultar em histórias digitais, jogos, gibis, apresentações, protótipos, roteiros, animações ou outros produtos.
+Os projetos podem ser realizados individualmente, em duplas ou em pequenos grupos e podem resultar em histórias digitais, jogos, gibis, apresentações, protótipos, roteiros, animações ou outros produtos.
 
 ### Regra de ouro
 
 > **No final da história, o protagonista precisa estar mais próximo de seu propósito do que estava no começo.**
 
-## 🚀 Status do projeto
-
-🟡 **Em desenvolvimento ativo.** O projeto Meu Jogo será construído progressivamente conforme os educandos consolidarem competências digitais, criatividade, storytelling e resolução de problemas.
-
-### Caminho de evolução
+## 🚀 Caminho de evolução
 
 **Ideia → Personagem → Mundo → História → Desafios → Protótipo → Produto Digital → Jogo**
 
-O educando não precisa começar criando um jogo completo: cada etapa pode gerar um produto significativo e servir como base para a próxima.
+O participante não precisa começar criando um jogo completo: cada etapa pode gerar um produto significativo e servir como base para a próxima.
 
 ## 🗺️ Próximas etapas
 
@@ -99,27 +102,36 @@ Informatica_Educacional_MeuJogo/
 └── CHANGELOG.md
 ```
 
-## 🔧 Ferramentas principais
+## 🔧 Ferramentas e recursos
 
-- Windows
-- Bloco de Notas
-- Explorador de Arquivos
-- Navegador web
-- Google Drive
-- Google Documentos
-- Google Apresentações
-- Google Planilhas
-- Google Forms
-- Google Classroom, quando adotado
-- Recursos de jogos e atividades educativas online
+- Windows ou outro sistema operacional disponível;
+- editor de texto;
+- explorador de arquivos;
+- navegador web;
+- armazenamento em nuvem;
+- ferramentas de documentos, apresentações e planilhas;
+- formulários digitais;
+- recursos de jogos e atividades educativas online.
 
 ## 🔐 Segurança e privacidade
 
-O projeto trata segurança digital como parte do currículo. Dados fictícios, anonimizados ou agregados devem ser utilizados sempre que necessário para documentação pública. O repositório público não deve conter dados pessoais de educandos, respostas individuais, listas de presença identificáveis, credenciais, tokens ou chaves de API.
+O projeto trata segurança digital como parte do currículo. Dados fictícios, anonimizados ou agregados devem ser utilizados sempre que necessário para documentação pública.
+
+O repositório público não deve conter dados pessoais, respostas individuais, listas de presença identificáveis, credenciais, tokens ou chaves de API.
 
 ## 📈 Avaliação
 
-A avaliação é contínua e considera compreensão, autonomia, precisão, organização, participação, criatividade e capacidade de resolver problemas. Podem ser utilizados diagnósticos, atividades práticas, revisões, desafios e avaliação final.
+A avaliação é contínua e considera:
+
+- compreensão;
+- autonomia;
+- precisão;
+- organização;
+- participação;
+- criatividade;
+- capacidade de resolver problemas.
+
+Podem ser utilizados diagnósticos, atividades práticas, revisões, desafios e avaliação final.
 
 ## 📂 Documentação
 
@@ -136,6 +148,8 @@ A avaliação é contínua e considera compreensão, autonomia, precisão, organ
 - [Uso do GitHub](09_Documentacao/uso-do-github.md)
 - [Histórico de mudanças](CHANGELOG.md)
 
-## 👨‍🏫 Educador
+## 👨‍🏫 Autor
 
-**Filipe G. Morais** — Fundação Eufraten — Informática Educacional
+**Filipe Gimenes de Morais**
+
+Projeto profissional e pedagógico em desenvolvimento na área de Educação, Tecnologia Educacional e Inclusão Digital.
