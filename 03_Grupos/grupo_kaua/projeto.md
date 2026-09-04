@@ -1,69 +1,53 @@
-# ⚽ Projeto do Kauã — Neyronaldo
+# ⚽ Projeto do Grupo 04 — Neyronaldo
 
 ## Status
-🟡 Projeto em desenvolvimento — versão inicial registrada para evolução na próxima aula.
+Projeto em desenvolvimento.
 
-## 🎮 Conceito
-Jogo de esporte/aventura centrado em futebol, velocidade, dribles e desafios para alcançar o gol.
+## Conceito
+Jogo de esporte e aventura centrado em futebol, velocidade, dribles e desafios para alcançar o gol.
 
-## 🦸 Protagonista
-**Nome:** Neyronaldo
-**Idade:** 35 anos
-**Profissão:** "dibrar" — interpretação inicial: jogador/driblador; confirmar com o educando.
-**Cidade:** Campinas
-**Lugar principal:** Campo de futebol.
-**Poder:** Ser rápido.
+## Protagonista
+**Neyronaldo**
 
-## ❤️ Fraquezas
-- Medo do amor.
-- Medo de perder sua mãe.
+- Local: Campinas
+- Ambiente principal: campo de futebol
+- Habilidade: velocidade
+- Fraquezas narrativas: medo do amor e medo de perder a mãe
 
-Esses elementos ainda precisam ser relacionados ou não ao enredo, conforme decisão do educando.
+## Missão
+Fazer um gol.
 
-## 🎯 Missão
-Fazer gol.
+## Antagonista
+**Sergio Ramos**
 
-## 😈 Antagonista
-**Nome:** Sergio Ramos.
-**Poder/função:** Zagueiro.
-**Objetivo:** Tirar a bola de Neyronaldo.
+- Função: defensor
+- Objetivo: impedir Neyronaldo de chegar ao gol
 
-## 🧩 Estrutura atual
-**Objetivo:** fazer gol.
+## Estrutura inicial
+**Objetivo:** fazer o gol.
 
-**Obstáculo:** Sergio Ramos e a defesa.
+**Obstáculo:** defesa adversária.
 
 **Habilidade:** velocidade.
 
-**Desafio:** passar pelos defensores e chegar ao gol.
+**Desafio:** superar os defensores.
 
-## 🗺️ Possível progressão a desenvolver
-1. Partida começa.
-2. Superar defensores iniciais.
-3. Enfrentar desafios mais difíceis.
-4. Chegar ao confronto principal com Sergio Ramos.
-5. Decidir como jogar: sozinho ou em equipe.
-6. Realizar o gol final.
+## Progressão possível
+1. Início da partida.
+2. Superação dos primeiros defensores.
+3. Desafios progressivamente maiores.
+4. Confronto principal.
+5. Decisão entre jogar individualmente ou em equipe.
+6. Gol final.
 
-Essa progressão ainda deve ser construída com o educando.
+## Elementos a desenvolver
+- importância da partida;
+- campeonato;
+- equipe;
+- adversários;
+- relação das fraquezas com a jornada;
+- transformação;
+- final narrativo.
 
-## 🚧 Lacunas atuais
-- Propósito mais profundo do protagonista.
-- História da partida.
-- Importância do jogo.
-- Colegas de equipe.
-- Outros adversários.
-- Relação entre as fraquezas emocionais e a jornada.
-- Transformação do protagonista.
-- Final narrativo.
-
-## 🎯 Próxima prioridade
-Desenvolver "A partida mais importante da vida de Neyronaldo":
-1. Qual campeonato ou partida está acontecendo?
-2. Por que essa partida é importante?
-3. Quem está no time?
-4. Qual é o maior desafio?
-5. O que acontece se ele perder?
-6. Por que ele quer vencer?
-7. Ele precisa aprender alguma coisa durante a partida?
-8. O que muda no final?
+## Próxima prioridade
+Definir por que essa é a partida mais importante da vida de Neyronaldo e o que ele precisa aprender durante ela.
