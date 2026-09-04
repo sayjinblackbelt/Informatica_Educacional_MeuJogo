@@ -1,57 +1,42 @@
-# 👹 Projeto do Nicolas — Marlon
+# 👹 Projeto do Grupo 06 — Marlon
 
 ## Status
-🟡 Projeto em desenvolvimento — ideia inicial registrada.
+Projeto em desenvolvimento.
 
-O educando participou da aula, mas ainda não desenvolveu a história além do conceito inicial.
+## Protagonista
+**Marlon**
 
-## 🦸 Protagonista
-**Nome:** Marlon
+- Mundo: Terra
+- Local: Hell / Cidade Destruída — classificação ainda a esclarecer
+- Habilidades: superforça e supervelocidade
+- Conceito adicional de poder: “Poder do Bahiano”, ainda a desenvolver
 
-**Mundo:** Terra.
+## Antagonistas
+**Demônios**
 
-**Cidade/local:** Hell / Cidade Destruída — ainda precisa esclarecer se Hell é uma cidade, região ou outro tipo de lugar.
+Ainda não existe um antagonista principal definido.
 
-## ⚡ Habilidades
-- Super força.
-- Super velocidade.
-- "Poder do Bahiano" — conceito ainda não explicado pelo educando.
+## Missão
+Enfrentar as ameaças e proteger pessoas ou o mundo.
 
-## 😈 Antagonistas
-**Demônios.**
+## Estado atual
+**Herói poderoso → mundo ameaçado → ameaças sobrenaturais → missão → desafios**
 
-Ainda não existe um vilão principal definido.
+## Elementos a desenvolver
+- origem de Marlon;
+- origem dos poderes;
+- significado do poder adicional;
+- origem das ameaças;
+- vilão principal;
+- problema inicial;
+- propósito;
+- começo;
+- meio;
+- final;
+- transformação.
 
-## 🎯 Missão
-Destruir todos os demônios.
-
-Para o desenvolvimento do projeto, a ação pode ser trabalhada como aventura/fantasia fictícia, com foco em enfrentar ameaças e proteger pessoas ou o mundo, evitando violência gráfica.
-
-## 🌎 Estado atual da ideia
-A ideia apresenta a estrutura inicial:
-
-**Herói poderoso → mundo ameaçado → demônios → missão → desafios**
-
-## 🚧 Elementos ainda não definidos
-- Origem de Marlon.
-- Idade.
-- Vida antes da aventura.
-- Origem dos poderes.
-- Significado do "Poder do Bahiano".
-- Origem dos demônios.
-- Vilão principal.
-- Problema que inicia a história.
-- Propósito além da missão.
-- Começo.
-- Meio.
-- Final.
-- Transformação do protagonista.
-
-## 🎯 Próxima prioridade
-Trabalhar três perguntas simples:
-
-1. O que aconteceu para Hell ficar destruída?
-2. Quem é o demônio mais poderoso?
+## Próxima prioridade
+Responder:
+1. O que aconteceu para a cidade ficar destruída?
+2. Quem é a ameaça principal?
 3. Quem ou o que Marlon precisa proteger?
-
-A partir dessas respostas, desenvolver o início da narrativa.
