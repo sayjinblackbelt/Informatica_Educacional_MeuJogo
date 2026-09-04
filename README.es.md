@@ -87,3 +87,21 @@ La evaluación es continua y considera comprensión, autonomía, precisión, org
 **Filipe Gimenes de Morais**
 
 Proyecto profesional y pedagógico en desarrollo en las áreas de Educación, Tecnología Educativa e Inclusión Digital.
+
+
+## 🗂️ Estructura del repositorio
+
+```text
+01_Projeto/
+02_Planejamento/
+03_Curriculo/
+04_Aulas/
+05_Grupos/
+06_Avaliacoes/
+07_Recursos/
+08_Tecnologia/
+09_Seguranca/
+10_Documentacao/
+```
+
+Los registros públicos de los grupos están anonimizados y se identifican únicamente por número. Las observaciones educativas individuales y los datos personales no forman parte del repositorio público.
