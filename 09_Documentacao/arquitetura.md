@@ -7,34 +7,40 @@ O projeto possui duas camadas complementares:
 1. **Oficina pedagógica:** planejamento, aulas, atividades, avaliações, materiais e projeto Meu Jogo.
 2. **Registro digital:** arquivos, instrumentos de avaliação e sistemas desenvolvidos para apoiar o acompanhamento pedagógico.
 
-## Estrutura sugerida do repositório
+## Estrutura atual do repositório
 
-```text
-Informatica_Educacional_MeuJogo/
-├── 01_Projeto/
-├── 02_Planejamento/
-├── 03_Curriculo/
-├── 04_Avaliacoes/
-├── 05_Aulas/
-├── 06_Recursos/
-├── 07_Tecnologia/
-├── 08_Seguranca/
-├── 09_Documentacao/
-├── README.md
-└── CHANGELOG.md
-```
+    Informatica_Educacional_MeuJogo/
+    ├── 01_Projeto/
+    ├── 02_Planejamento/
+    ├── 03_Curriculo/
+    ├── 04_Aulas/
+    │   ├── modelo-plano-de-aula.md
+    │   └── 2026/
+    ├── 05_Grupos/
+    │   ├── grupo_01/
+    │   ├── grupo_02/
+    │   ├── grupo_03/
+    │   ├── grupo_04/
+    │   ├── grupo_05/
+    │   ├── grupo_06/
+    │   ├── grupo_07/
+    │   ├── grupo_08/
+    │   └── grupo_09/
+    ├── 06_Avaliacoes/
+    ├── 07_Recursos/
+    ├── 08_Tecnologia/
+    ├── 09_Seguranca/
+    ├── 10_Documentacao/
+    ├── README.md
+    └── CHANGELOG.md
 
-## Organização de arquivos
+## Organização das aulas
 
-Cada aula deve, quando necessário, possuir registros como:
+As aulas são organizadas por ano quando há registros datados. O modelo de plano permanece na raiz de 04_Aulas/, enquanto os registros de execução podem ser agrupados por ano.
 
-- plano da aula;
-- material de apoio;
-- apresentação;
-- exercício;
-- recurso interativo;
-- avaliação;
-- observações do educador.
+## Organização dos grupos
+
+Os projetos dos participantes são identificados publicamente apenas por números de grupo. Os registros publicados devem documentar ideias, narrativas e produtos criativos, sem identificar educandos ou registrar observações pedagógicas individuais.
 
 ## Versionamento
 
@@ -42,4 +48,4 @@ O GitHub será utilizado como histórico do desenvolvimento do projeto. Alteraç
 
 ## Princípio de separação
 
-O repositório público não deve conter dados pessoais identificáveis dos educandos, respostas individuais, credenciais, tokens, chaves de API ou outros dados institucionais/confidenciais.
+O repositório público não deve conter dados pessoais identificáveis dos educandos, respostas individuais, registros de frequência identificáveis, credenciais, tokens, chaves de API ou outros dados institucionais/confidenciais.
