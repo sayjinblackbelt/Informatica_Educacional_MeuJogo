@@ -87,3 +87,21 @@ Assessment is continuous and considers understanding, autonomy, accuracy, organi
 **Filipe Gimenes de Morais**
 
 Professional and pedagogical project in development in Education, Educational Technology, and Digital Inclusion.
+
+
+## 🗂️ Repository structure
+
+```text
+01_Projeto/
+02_Planejamento/
+03_Curriculo/
+04_Aulas/
+05_Grupos/
+06_Avaliacoes/
+07_Recursos/
+08_Tecnologia/
+09_Seguranca/
+10_Documentacao/
+```
+
+Public group records are anonymized and identified only by group number. Individual educational observations and personal data are not part of the public repository.
