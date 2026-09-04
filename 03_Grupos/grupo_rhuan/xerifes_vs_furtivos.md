@@ -1,240 +1,70 @@
-# 🎮 Projeto — Xerifes vs Furtivos
+# 🎮 Projeto do Grupo 08 — Xerifes vs Furtivos
 
-**Educando:** Rhuan  
-**Oficina:** Informática Educacional — Fundação Eufraten  
-**Projeto:** Meu Jogo
-
-## 1. Conceito atual
-
-**Nome do jogo:** Xerifes vs Furtivos
-
-**Gênero:** RPG / mundo aberto / multiplayer / missões / progressão.
+## Conceito
+RPG de mundo aberto com multiplayer, missões, facções e progressão.
 
 O jogador poderá escolher entre duas facções:
-
 - 🤠 Xerifes
 - 🥷 Furtivos
 
-O mundo será uma grande ilha com diferentes cidades, florestas, mercados, regiões especiais e servidores com diferentes níveis de desenvolvimento.
+## Mundo
+Uma grande ilha com cidades, florestas, mercados, regiões especiais e diferentes áreas de exploração.
 
----
+### Reino dos Ricos
+Região inicialmente mais desenvolvida, com habitantes, guardas, mercados, mansões, terrenos e missões.
 
-## 2. História do mundo — versão em desenvolvimento
+### Cidade Velha
+Região antiga e menos desenvolvida, com construções antigas, mercados menores, áreas abandonadas, regiões perigosas e esconderijos.
 
-A ilha possui várias cidades. Com o passar do tempo, uma delas concentrou riqueza, tecnologia, comércio e proteção, tornando-se conhecida como **Reino dos Ricos**.
-
-Para proteger essa região e seus habitantes, surgiu a organização dos **Xerifes**.
-
-Enquanto o Reino dos Ricos se desenvolvia, outras regiões foram ficando esquecidas. Uma delas tornou-se conhecida como **Cidade Velha**.
-
-Na Cidade Velha surgiram grupos chamados **Furtivos**, que passaram a disputar recursos e poder e a entrar em conflito com os Xerifes.
-
-O conflito inicial parece ser uma disputa entre heróis e vilões, mas a história deverá explorar uma questão mais complexa:
-
-> **Quem realmente está certo?**
-
-Existe a possibilidade de uma ameaça maior estar manipulando o conflito entre as duas facções.
-
----
-
-## 3. Mundo
-
-### 🏝️ Ilha principal
-
-O mapa será aberto e possuirá diferentes regiões.
-
-### 🏰 Reino dos Ricos
-
-Região inicialmente mais desenvolvida, com:
-
-- habitantes ricos;
-- guardas;
-- mercados;
-- mansões;
-- terrenos;
-- jogadores;
-- missões.
-
-### 🏚️ Cidade Velha
-
-Região antiga e menos desenvolvida, com:
-
-- construções antigas;
-- mercados menores;
-- áreas abandonadas;
-- regiões perigosas;
-- grupos rivais;
-- possíveis esconderijos e missões especiais.
-
-### 🌲 Outras regiões
-
+### Outras regiões
 - florestas;
 - cidades adicionais;
 - áreas de exploração;
 - regiões secretas;
 - locais de missão.
 
----
+## História
+O Reino dos Ricos se desenvolveu e criou uma organização de Xerifes para proteger a região. Enquanto isso, outras regiões foram esquecidas, e grupos de Furtivos surgiram na Cidade Velha.
 
-## 4. Facções
+A história deverá questionar a visão simples de “bons contra maus” e explorar interesses diferentes entre as facções.
 
-### 🤠 Xerifes
+## Facções
+### Xerifes
+Objetivo narrativo: proteger habitantes e manter a segurança.
 
-Objetivo narrativo:
-
-Proteger habitantes e manter a segurança das cidades.
-
-Progressão imaginada:
-
+Progressão:
 **Novato → Treinamento → Xerife → Xerife experiente → Comandante**
 
-Atividades:
+### Furtivos
+Objetivo narrativo: explorar o mundo, realizar missões de infiltração e disputar recursos e influência.
 
-- treinamento;
-- missões;
-- proteção de cidades;
-- enfrentamento de ameaças;
-- evolução do personagem.
-
-### 🥷 Furtivos
-
-Objetivo narrativo:
-
-Explorar o mundo, realizar missões de infiltração e disputar recursos e influência com os Xerifes.
-
-Progressão imaginada:
-
+Progressão:
 **Iniciante → Explorador → Furtivo → Líder de grupo → Líder de facção**
 
-As ações criminosas devem permanecer representadas como elementos fictícios do universo do jogo, adequados ao contexto educacional.
+As ações ilícitas permanecem como elementos fictícios do universo do jogo.
 
----
+## Fluxo do jogador
+**Escolher servidor → Criar personagem → Escolher facção → Tutorial → Primeiras missões → Exploração**
 
-## 5. Estrutura inicial do jogador
+## Progressão
+O jogador poderá completar missões, ganhar recursos fictícios, subir de nível, obter itens, personalizar espaços, aumentar influência e desbloquear regiões.
 
-**Escolher servidor**
+## Ameaça maior
+Uma hipótese narrativa é existir uma força que manipula o conflito entre as duas facções.
 
-↓
+## Propósito em desenvolvimento
+> Descobrir o que realmente está acontecendo na ilha e decidir qual será o papel do jogador nesse conflito.
 
-**Criar personagem**
+## Próximas decisões
+- origem do Reino dos Ricos;
+- motivo do abandono da Cidade Velha;
+- origem das facções;
+- possíveis abusos de poder;
+- manipulador do conflito;
+- segredo da ilha;
+- propósito final do jogador.
 
-↓
+## Direção pedagógica
+O projeto trabalha Game Design, mundo aberto, facções, progressão, servidores, missões e construção de mundo.
 
-**Escolher facção**
-
-↓
-
-**Tutorial específico**
-
-↓
-
-**Primeiras missões**
-
-↓
-
-**Exploração do mundo aberto**
-
----
-
-## 6. Servidores
-
-Rhuan propôs que o jogo possua vários servidores.
-
-### 🟢 Servidores iniciantes
-
-Destinados a novos jogadores, com mapas menos desenvolvidos e missões introdutórias.
-
-### 🟡 Servidores avançados
-
-Destinados a jogadores com maior experiência e desafios mais complexos.
-
-### 🔴 Servidores especiais
-
-Possibilidade futura de eventos e desafios diferentes.
-
----
-
-## 7. Progressão
-
-A progressão deve permitir que o jogador:
-
-- complete missões;
-- ganhe recursos fictícios;
-- suba de nível;
-- compre itens dentro do universo do jogo;
-- construa e personalize espaços;
-- aumente sua influência;
-- desbloqueie regiões e missões.
-
-Exemplo de progressão:
-
-**Tutorial → Missões simples → Evolução → Novas cidades → Novas missões → Segredos → Descoberta da história maior**
-
----
-
-## 8. Possível ameaça maior
-
-Uma hipótese de desenvolvimento é existir um personagem ou organização capaz de manipular o conflito entre Xerifes e Furtivos.
-
-Essa descoberta poderá ocorrer gradualmente durante a exploração.
-
-A intenção é fazer o jogador questionar a ideia inicial de:
-
-**"Xerifes = bons / Furtivos = maus"**
-
-A história poderá apresentar situações em que as duas facções possuem diferentes interesses e escolhas.
-
----
-
-## 9. Propósito do projeto
-
-O propósito ainda está em construção.
-
-Além dos objetivos imediatos de progressão do jogo, existe uma possibilidade de propósito narrativo maior:
-
-> **Descobrir o que realmente está acontecendo na ilha e decidir qual será o seu papel nesse conflito.**
-
-O propósito definitivo deverá ser escolhido pelo educando.
-
----
-
-## 10. Próximas decisões do autor
-
-Rhuan deverá definir:
-
-1. Quem criou o Reino dos Ricos?
-2. Por que a Cidade Velha foi abandonada?
-3. Por que surgiram os Xerifes?
-4. Por que surgiram os Furtivos?
-5. Os Furtivos possuem alguma razão legítima para lutar contra o Reino dos Ricos?
-6. Existem Xerifes que abusam de seu poder?
-7. Quem ou o que está manipulando as duas facções?
-8. Qual é o grande segredo da ilha?
-9. Qual é o propósito final do jogador?
-10. Como o jogador poderá transformar o mundo?
-
----
-
-## 11. Direção pedagógica
-
-Este projeto demonstra forte interesse do educando por **Game Design**, especialmente:
-
-- mundo aberto;
-- sistemas;
-- facções;
-- progressão;
-- servidores;
-- missões;
-- economia e construção do mundo.
-
-O próximo trabalho deve aprofundar a **história central** sem retirar a autoria do educando.
-
-As intervenções do educador devem priorizar perguntas e escolhas, ajudando Rhuan a transformar suas ideias em um sistema coerente.
-
----
-
-## 12. Regra de evolução
-
-Cada nova versão deve preservar o que foi criado pelo educando e registrar claramente as alterações.
-
-**Rascunho original → organização → desenvolvimento → revisão → nova versão**
+A evolução deve priorizar perguntas e escolhas que preservem a autoria e aumentem a coerência do sistema.
