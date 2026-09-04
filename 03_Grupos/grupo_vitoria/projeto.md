@@ -1,91 +1,60 @@
-# 🌲 Projeto da Vitória — Floresta Mágica
+# 🌲 Projeto do Grupo 09 — Floresta Mágica
 
 ## Status
-🟢 Projeto em desenvolvimento — versão registrada para evolução na próxima aula.
+Projeto em desenvolvimento.
 
-## 🎮 Conceito
-História de aventura e fantasia ambientada em uma floresta mágica que interfere diretamente na jornada dos personagens.
+## Conceito
+Aventura e fantasia ambientadas em uma floresta mágica que interfere diretamente na jornada.
 
-## 🌎 Mundo
-### Floresta Mágica
-- Tudo possui vida.
-- As árvores falam.
-- As paredes têm ouvidos.
-- Existem seres místicos.
-- Algumas criaturas podem assumir a forma de outros seres.
+## Mundo
+**Floresta Mágica**
+- árvores falantes;
+- seres místicos;
+- criaturas capazes de assumir diferentes formas;
+- ambiente com elementos vivos e misteriosos.
 
-## 💥 Acontecimento do passado
-Uma explosão aconteceu na floresta.
+## Acontecimento do passado
+Uma explosão ocorreu na floresta e está relacionada a antigos habitantes.
 
-**Responsáveis:** antigos habitantes.
+Ainda precisam ser definidos:
+- identidade dos antigos habitantes;
+- causa da explosão;
+- consequências para a floresta.
 
-Ainda precisa ser desenvolvido:
-- Quem eram os antigos habitantes?
-- O que causou a explosão?
-- O que mudou na floresta depois dela?
+## Problema
+Um turista fotógrafo entra na floresta para explorá-la e acaba perdido.
 
-## 📷 Problema
-Um turista fotógrafo entrou na floresta para explorá-la, mas acabou perdido.
+## Protagonista
+O nome ainda será definido.
 
-## 🦸 Protagonista
-O protagonista ainda precisa receber um nome.
+Foi escolhido por coragem e capacidade.
 
-### Por que foi escolhido?
-Foi escolhido por sua coragem e capacidade.
+### Habilidade
+**Audição aguçada**, permitindo perceber sons e possíveis diferenças entre situações reais e ilusões.
 
-### Habilidade especial
-👂 Audição aguçada.
+## Objetivo
+Salvar o turista sem ser manipulado pela floresta e sem se perder.
 
-A habilidade combina diretamente com o mundo, permitindo perceber sons e possivelmente distinguir situações reais de ilusões.
+## Jornada
+1. Entrada na floresta.
+2. A floresta reage à presença humana.
+3. Aumentam as provações.
+4. O protagonista encontra o turista.
+5. Os dois deixam a floresta.
 
-## 🎯 Objetivo
-Salvar o turista sem se deixar manipular pela floresta e sem se perder também.
+## Item especial
+Espada de energia utilizada para proteção durante a jornada.
 
-## 🗺️ Jornada
-### Fase 1 — Entrada
-O herói inicia sua jornada e segue até a Floresta Mágica.
+## Antagonismo
+A própria floresta funciona como força antagonista por meio de incertezas, ilusões, criaturas e obstáculos.
 
-### Fase 2 — A floresta reage
-Ao perceber a presença humana, a floresta dificulta a passagem e deixa o ambiente mais sombrio.
+## Final atual
+O protagonista consegue superar as dificuldades e sair acompanhado do turista. A experiência transforma-se em uma lenda.
 
-### Fase 3 — Aumento das provações
-Como o herói não desiste, a floresta aumenta o nível de dificuldade, enviando animais e seres desconhecidos.
-
-### Fase 4 — Encontro
-Mesmo com medo, o herói continua. Ele ouve um barulho e encontra o turista, encolhido e desesperado.
-
-## 🗡️ Item especial
-Espada de energia guardada na mochila do herói, utilizada para proteção durante a jornada.
-
-## 🌫️ Antagonismo
-A própria floresta funciona como força antagonista, utilizando:
-- incertezas;
-- ilusões;
-- criaturas;
-- obstáculos.
-
-## 🏁 Final atual
-O herói consegue vencer as dificuldades da floresta e sair acompanhado do turista.
-
-A experiência transforma-se em uma lenda contada de geração em geração.
-
-## 🧠 Aprendizado atual
-A ideia registrada pela educanda é: "nunca mais ir para aquela floresta em específico".
-
-Para aprofundamento narrativo, investigar também o que o herói aprende sobre coragem, medo, atenção e consciência.
-
-## ⭐ Pontos fortes
-- Mundo original e imaginativo.
-- A floresta funciona como personagem/antagonista.
-- A habilidade do protagonista tem relação com os desafios.
-- Existe progressão clara de dificuldade.
-- Há começo, desenvolvimento e final.
-- O final transforma a experiência em lenda.
-
-## 🔧 Próximas prioridades
-1. Definir o nome do protagonista.
+## Próximas prioridades
+1. Definir o protagonista.
 2. Desenvolver a explosão e os antigos habitantes.
-3. Desenvolver melhor o turista.
+3. Desenvolver o turista.
 4. Criar seres e ilusões específicos.
 5. Definir a transformação do protagonista.
-6. Relacionar com mais clareza o propósito e o final.
+6. Relacionar propósito e final.
