@@ -140,12 +140,12 @@ Podem ser utilizados diagnósticos, atividades práticas, revisões, desafios e 
 - [Estrutura padrão das aulas](02_Planejamento/estrutura-aulas.md)
 - [Linha de progressão](03_Curriculo/linha-de-progressao.md)
 - [Critérios de avaliação](04_Avaliacoes/criterios-e-instrumentos.md)
-- [Modelo de plano de aula](05_Aulas/modelo-plano-de-aula.md)
-- [Gamificação](06_Recursos/gamificacao.md)
-- [Ferramentas e recursos](07_Tecnologia/ferramentas.md)
-- [Segurança e privacidade](08_Seguranca/seguranca-e-privacidade.md)
-- [Arquitetura do projeto](09_Documentacao/arquitetura.md)
-- [Uso do GitHub](09_Documentacao/uso-do-github.md)
+- [Modelo de plano de aula](04_Aulas/modelo-plano-de-aula.md)
+- [Gamificação](07_Recursos/gamificacao.md)
+- [Ferramentas e recursos](08_Tecnologia/ferramentas.md)
+- [Segurança e privacidade](09_Seguranca/seguranca-e-privacidade.md)
+- [Arquitetura do projeto](10_Documentacao/arquitetura.md)
+- [Uso do GitHub](10_Documentacao/uso-do-github.md)
 - [Histórico de mudanças](CHANGELOG.md)
 
 ## 👨‍🏫 Autor
