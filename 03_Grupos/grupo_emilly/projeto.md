@@ -1,51 +1,34 @@
-# 🕷️ Projeto da Emilly — Herói e Vilão
+# 🕷️ Projeto do Grupo 02 — Herói e Vilão
 
 ## Status
-🟡 Projeto em desenvolvimento.
+Projeto em desenvolvimento.
 
-A educanda esteve ausente na aula mais recente; este registro preserva somente as ideias já produzidas, sem completar a história por ela.
+## Protagonista
+**Homem-Aranha**
 
-## 🦸 Protagonista
-**Nome/personagem:** Homem-Aranha
-**Idade:** 18 anos
-**Profissão:** Herói
-**Cidade:** Nova York
-**Poder:** Ainda precisa ser especificado.
-**Fraqueza:** "Mundo / amigos" — precisa ser esclarecido pela educanda.
+- Papel: herói
+- Cidade: Nova York
+- Poder: ainda a definir
+- Fraqueza: ainda a definir
 
-## 😈 Antagonista
-**Nome:** Neymar
-**Poder:** Bola.
+## Antagonista
+**Neymar**
 
-Ainda precisa desenvolver:
-- objetivo do vilão;
-- relação com o herói;
-- conflito principal;
-- ponto fraco;
-- motivo da oposição.
+- Poder/função narrativa: relacionado ao futebol
 
-## 📌 Ideia atual
-A educanda criou inicialmente um herói inspirado em personagem conhecido e um antagonista inspirado em figura conhecida. O próximo passo é decidir se manterá as referências como exercício de narrativa ou se transformará a ideia em personagens originais.
+O objetivo, a motivação, a relação com o herói e o conflito principal ainda serão desenvolvidos.
 
-## 🚧 Elementos ainda não definidos
-- Propósito do protagonista.
-- Problema central.
-- Mundo detalhado.
-- Começo da história.
-- Desafios.
-- Meio.
-- Transformação.
-- Final.
+## Conceito
+A proposta inicial utiliza referências de personagens e figuras conhecidas como exercício de narrativa. Uma próxima etapa poderá transformar essas referências em personagens originais.
 
-## 🎯 Próxima prioridade
-Retomar o projeto com a educanda e trabalhar primeiro o protagonista:
-1. Quem é?
-2. Como vive?
-3. Qual é seu poder?
-4. Qual é sua maior qualidade?
-5. Qual é sua maior dificuldade?
-6. O que deseja?
-7. Qual é seu propósito?
-8. O que pode perder?
+## Elementos a desenvolver
+- propósito do protagonista;
+- problema central;
+- mundo;
+- começo;
+- desafios;
+- transformação;
+- final.
 
-Depois desenvolver o antagonista e o conflito.
+## Próxima prioridade
+Desenvolver o protagonista por meio de perguntas sobre identidade, rotina, poderes, qualidades, dificuldades, desejos, propósito e consequências.
