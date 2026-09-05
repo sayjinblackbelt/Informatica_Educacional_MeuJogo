@@ -1,4 +1,4 @@
-# 🎮 Grupo 05 — Dora e os Três Macacos
+# 🎮 Projeto — grupo_05 — Dora e os Três Macacos
 
 ## Situação do projeto
 Projeto de aventura em desenvolvimento.
