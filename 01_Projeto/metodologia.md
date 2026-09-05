@@ -63,7 +63,7 @@ Os papéis devem ser alternados sempre que possível.
 
 O projeto começará utilizando ferramentas simples:
 
-- Bloco de Notas;
+- editor de texto;
 - computador;
 - teclado e mouse;
 - internet;
