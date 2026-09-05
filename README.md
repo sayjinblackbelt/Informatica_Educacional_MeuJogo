@@ -74,16 +74,6 @@ Os projetos podem ser realizados individualmente, em duplas ou em pequenos grupo
 
 O participante não precisa começar criando um jogo completo: cada etapa pode gerar um produto significativo e servir como base para a próxima.
 
-## 🗺️ Próximas etapas
-
-- Consolidar competências digitais fundamentais.
-- Desenvolver atividades de criatividade e storytelling.
-- Criar personagens e mundos.
-- Estruturar desafios narrativos.
-- Desenvolver protótipos.
-- Definir e testar ferramentas para criação dos jogos.
-- Produzir os primeiros projetos jogáveis.
-- Registrar resultados e aprendizados.
 
 ## 🗂️ Estrutura do repositório
 
@@ -153,13 +143,10 @@ Podem ser utilizados diagnósticos, atividades práticas, revisões, desafios e 
 | Documentação | [Arquitetura](10_Documentacao/arquitetura.md) |
 | Versionamento | [Uso do GitHub](10_Documentacao/uso-do-github.md) |
 
-## 👨‍🏫 Autor
+## 👨‍🏫 Sobre a autoria
 
-**Filipe G Morais**
+Projeto pedagógico desenvolvido para experiências de Informática Educacional, com foco em autonomia digital, criatividade, pensamento estruturado, resolução de problemas e expressão por meio de narrativas e projetos.
 
-Projeto profissional e pedagógico em desenvolvimento na área de Educação, Tecnologia Educacional e Inclusão Digital.
-
----
 
 ## 🌱 Status
 
