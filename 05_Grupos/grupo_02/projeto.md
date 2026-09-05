@@ -4,7 +4,7 @@
 Projeto em desenvolvimento.
 
 ## Protagonista
-**Homem-Aranha**
+**Aranha-Vermelha**
 
 - Papel: herói
 - Cidade: Nova York
@@ -12,14 +12,14 @@ Projeto em desenvolvimento.
 - Fraqueza: ainda a definir
 
 ## Antagonista
-**Neymar**
+**Camisa 10**
 
 - Poder/função narrativa: relacionado ao futebol
 
 O objetivo, a motivação, a relação com o herói e o conflito principal ainda serão desenvolvidos.
 
 ## Conceito
-A proposta inicial utiliza referências de personagens e figuras conhecidas como exercício de narrativa. Uma próxima etapa poderá transformar essas referências em personagens originais.
+A proposta inicial partiu de referências conhecidas como exercício de narrativa. Essas referências foram substituídas por conceitos ficcionais originais. Uma próxima etapa poderá transformar essas referências em personagens originais.
 
 ## Elementos a desenvolver
 - propósito do protagonista;
