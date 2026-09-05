@@ -109,7 +109,7 @@ A arquitetura completa está em [10_Documentacao/arquitetura.md](10_Documentacao
 
 ## 🔧 Ferramentas e recursos
 
-- Windows ou outro sistema operacional disponível;
+- sistema operacional disponível;
 - editor de texto;
 - explorador de arquivos;
 - navegador web;
