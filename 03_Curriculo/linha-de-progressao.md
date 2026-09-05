@@ -1,46 +1,31 @@
 # Linha de Progressão da Aprendizagem
 
 ## Nível 1 — Explorador Digital
-
-Foco: familiarização e autonomia inicial.
-
-Competências:
+**Foco:** familiarização e autonomia inicial.
 - identificar hardware, software e periféricos;
-- reconhecer teclado, mouse, monitor e gabinete;
 - ligar e desligar o computador corretamente;
-- reconhecer elementos básicos do Windows;
-- abrir programas simples.
+- reconhecer elementos básicos do sistema operacional;
+- abrir e fechar programas simples.
 
 ## Nível 2 — Aprendiz de Tecnologia
-
-Foco: uso funcional do computador.
-
-Competências:
-- utilizar teclado e mouse com maior controle;
-- utilizar atalhos básicos;
+**Foco:** uso funcional do computador.
+- utilizar teclado, mouse e atalhos básicos;
 - criar, salvar e localizar arquivos;
 - criar e organizar pastas;
 - compreender tipos e extensões de arquivos;
-- utilizar o Bloco de Notas;
+- utilizar editor de texto;
 - iniciar navegação segura.
 
 ## Nível 3 — Criador Digital
-
-Foco: produção e comunicação.
-
-Competências:
+**Foco:** produção e comunicação.
 - produzir textos digitais;
-- utilizar ferramentas Google de forma orientada;
-- criar apresentações simples;
 - organizar informações em documentos;
-- realizar atividades de pesquisa;
+- realizar pesquisas orientadas;
+- criar apresentações e outros conteúdos;
 - criar histórias, imagens e projetos digitais.
 
 ## Nível 4 — Mestre da Informática
-
-Foco: autonomia e resolução de problemas.
-
-Competências:
+**Foco:** autonomia e resolução de problemas.
 - executar tarefas digitais com pouca orientação;
 - localizar e corrigir erros simples;
 - organizar projetos digitais;
@@ -49,15 +34,8 @@ Competências:
 - criar soluções e projetos próprios.
 
 ## Critério de evolução
+A progressão considera principalmente a evolução individual. O nível não deve ser utilizado para rotular ou comparar negativamente os participantes.
 
-A progressão deve considerar principalmente a evolução individual do educando. O nível não deve ser utilizado para rotular ou comparar negativamente os participantes.
+**Indicadores:** autonomia, compreensão, precisão, organização, participação, criatividade, resolução de problemas e transferência do conhecimento.
 
-Indicadores sugeridos:
-- autonomia;
-- compreensão;
-- precisão;
-- organização;
-- participação;
-- criatividade;
-- capacidade de resolver problemas;
-- transferência do conhecimento para novas situações.
+> **Princípio:** avançar de nível significa ampliar autonomia, não apenas acumular conteúdos.
