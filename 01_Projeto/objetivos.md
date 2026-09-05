@@ -16,7 +16,7 @@ Durante o projeto, os educandos deverão desenvolver progressivamente a capacida
 - utilizar teclado e mouse;
 - criar, editar e salvar arquivos;
 - organizar arquivos e pastas;
-- utilizar o Bloco de Notas;
+- utilizar o editor de texto;
 - pesquisar informações e imagens na internet;
 - avaliar minimamente os resultados encontrados;
 - baixar e organizar imagens;
