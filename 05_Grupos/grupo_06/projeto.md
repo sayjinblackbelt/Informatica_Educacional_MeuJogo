@@ -1,4 +1,4 @@
-# 👹 Projeto do Grupo 06 — Marlon
+# 👹 Projeto — grupo_06 — Marlon
 
 ## Status
 Projeto em desenvolvimento.
