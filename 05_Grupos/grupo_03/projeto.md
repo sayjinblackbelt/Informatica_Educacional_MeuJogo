@@ -1,4 +1,4 @@
-# 🔥 Projeto do Grupo 03 — Kabal
+# 🔥 Projeto — grupo_03 — Kabal
 
 ## Status
 Projeto em desenvolvimento.
