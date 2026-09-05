@@ -1,4 +1,4 @@
-# 🎮 Projeto do Grupo 08 — Xerifes vs Furtivos
+# 🎮 Projeto — grupo_08 — Xerifes vs Furtivos
 
 ## Conceito
 RPG de mundo aberto com multiplayer, missões, facções e progressão.
