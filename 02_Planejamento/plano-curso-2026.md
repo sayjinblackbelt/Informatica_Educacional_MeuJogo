@@ -2,18 +2,18 @@
 
 ## 1. Identificação
 
-- **Instituição:** Fundação Eufraten
+- **Instituição:** 
 - **Oficina:** Informática Educacional
 - **Educador:** Filipe
 - **Público principal:** educandos de 11 a 13 anos
 - **Formato:** aulas presenciais em laboratório de informática
-- **Estrutura:** 1 computador por educando
+- **Estrutura:** computador disponível para cada educando, sempre que possível
 - **Período:** ano letivo de 2026
-- **Duração de referência:** aproximadamente 90 a 120 minutos por aula
+- **Duração de referência:** aproximadamente 90 a 120 minutos por aula, conforme a organização do atendimento
 
 ## 2. Perfil da turma
 
-A oficina atende educandos com níveis variados de familiaridade com tecnologia. Parte da turma possui pouco contato com computadores e pode apresentar dificuldades de leitura, escrita, atenção, organização e coordenação para uso do teclado e mouse.
+A oficina atende educandos com níveis variados de familiaridade com tecnologia e diferentes ritmos de aprendizagem. Parte da turma possui pouco contato com computadores e pode apresentar dificuldades de leitura, escrita, atenção, organização e coordenação para uso do teclado e mouse.
 
 O curso prioriza acessibilidade, progressão gradual, repetição inteligente, prática individual e acompanhamento da evolução de cada educando.
 
@@ -25,7 +25,7 @@ Desenvolver autonomia digital e habilidades básicas de informática, possibilit
 
 - Desenvolver autonomia no uso do computador.
 - Compreender hardware, software, periféricos e sistema operacional.
-- Utilizar o Windows em tarefas básicas.
+- Utilizar o sistema operacional disponível em tarefas básicas.
 - Desenvolver domínio progressivo do teclado, mouse e atalhos.
 - Criar, salvar, localizar, renomear e organizar arquivos e pastas.
 - Desenvolver habilidades iniciais de navegação segura na internet.
@@ -38,7 +38,7 @@ Desenvolver autonomia digital e habilidades básicas de informática, possibilit
 
 ### Eixo 1 — Alfabetização digital
 
-Computador, hardware, software, periféricos, sistema operacional, uso básico do Windows, teclado, mouse e segurança física básica.
+Computador, hardware, software, periféricos, sistema operacional, uso básico do sistema operacional disponível, teclado, mouse e segurança física básica.
 
 ### Eixo 2 — Autonomia no computador
 
@@ -52,9 +52,9 @@ Bloco de Notas, digitação, acentuação, pontuação, atalhos básicos e produ
 
 Navegação, pesquisa, fontes, segurança, privacidade, ética digital, cuidados com dados pessoais e comportamento responsável online.
 
-### Eixo 5 — Ferramentas Google
+### Eixo 5 — Ferramentas ferramentas digitais
 
-Introdução progressiva a conta Google, Drive, Documentos, Apresentações e Planilhas, conforme o nível da turma.
+Introdução progressiva a conta ferramentas digitais, Drive, Documentos, Apresentações e Planilhas, conforme o nível da turma.
 
 ### Eixo 6 — Criatividade e projeto
 
@@ -75,7 +75,7 @@ A prática deve ocupar a maior parte do tempo da aula. O educador deve observar 
 ## 7. Progressão sugerida
 
 1. **Explorador Digital** — reconhecer o computador e suas partes.
-2. **Aprendiz de Tecnologia** — utilizar o Windows e ferramentas básicas.
+2. **Aprendiz de Tecnologia** — utilizar o sistema operacional disponível e ferramentas básicas.
 3. **Criador Digital** — produzir e organizar textos, apresentações e outros conteúdos.
 4. **Mestre da Informática** — realizar tarefas com autonomia, solucionar problemas simples e aplicar conhecimentos em projetos.
 
