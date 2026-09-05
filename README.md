@@ -6,11 +6,11 @@
 
 ## 📌 Sobre o projeto
 
-Este repositório reúne planejamento pedagógico, materiais, avaliações, recursos digitais e projetos desenvolvidos em uma oficina de **Informática Educacional**.
+**Meu Jogo** é um projeto integrador de Informática Educacional. A criação de histórias, personagens, mundos e protótipos funciona como contexto para aprender tecnologia de forma prática e significativa.
 
-O eixo **Meu Jogo** utiliza a criação de histórias e jogos como estratégia para desenvolver criatividade, organização do pensamento, raciocínio, resolução de problemas, colaboração, expressão e autoconhecimento.
+O repositório reúne planejamento, currículo, aulas, projetos de grupos, avaliação, recursos, tecnologia, segurança e documentação.
 
-Para preservar o caráter público e reutilizável do portfólio, o projeto é apresentado de forma independente, sem vinculação nominal a instituições específicas.
+A versão pública foi estruturada para ser **reutilizável e sanitizada**, sem exposição de dados pessoais ou informações institucionais confidenciais.
 
 ## 🎯 Propósito
 
@@ -92,15 +92,20 @@ Informatica_Educacional_MeuJogo/
 ├── 01_Projeto/
 ├── 02_Planejamento/
 ├── 03_Curriculo/
-├── 04_Avaliacoes/
-├── 05_Aulas/
-├── 06_Recursos/
-├── 07_Tecnologia/
-├── 08_Seguranca/
-├── 09_Documentacao/
+├── 04_Aulas/
+├── 05_Grupos/
+├── 06_Avaliacoes/
+├── 07_Recursos/
+├── 08_Tecnologia/
+├── 09_Seguranca/
+├── 10_Documentacao/
 ├── README.md
+├── README.en.md
+├── README.es.md
 └── CHANGELOG.md
 ```
+
+A arquitetura completa está em [10_Documentacao/arquitetura.md](10_Documentacao/arquitetura.md).
 
 ## 🔧 Ferramentas e recursos
 
@@ -133,20 +138,20 @@ A avaliação é contínua e considera:
 
 Podem ser utilizados diagnósticos, atividades práticas, revisões, desafios e avaliação final.
 
-## 📂 Documentação
+## 📂 Documentação principal
 
-- [Proposta do projeto Meu Jogo](01_Projeto/proposta.md)
-- [Plano de curso 2026](02_Planejamento/plano-curso-2026.md)
-- [Estrutura padrão das aulas](02_Planejamento/estrutura-aulas.md)
-- [Linha de progressão](03_Curriculo/linha-de-progressao.md)
-- [Critérios de avaliação](04_Avaliacoes/criterios-e-instrumentos.md)
-- [Modelo de plano de aula](04_Aulas/modelo-plano-de-aula.md)
-- [Gamificação](07_Recursos/gamificacao.md)
-- [Ferramentas e recursos](08_Tecnologia/ferramentas.md)
-- [Segurança e privacidade](09_Seguranca/seguranca-e-privacidade.md)
-- [Arquitetura do projeto](10_Documentacao/arquitetura.md)
-- [Uso do GitHub](10_Documentacao/uso-do-github.md)
-- [Histórico de mudanças](CHANGELOG.md)
+| Área | Documento |
+|---|---|
+| Projeto | [Proposta](01_Projeto/proposta.md) |
+| Planejamento | [Plano de curso](02_Planejamento/plano-curso-2026.md) |
+| Currículo | [Linha de progressão](03_Curriculo/linha-de-progressao.md) |
+| Aulas | [Modelo de plano](04_Aulas/modelo-plano-de-aula.md) |
+| Avaliação | [Critérios e instrumentos](06_Avaliacoes/criterios-e-instrumentos.md) |
+| Recursos | [Gamificação](07_Recursos/gamificacao.md) |
+| Tecnologia | [Ferramentas](08_Tecnologia/ferramentas.md) |
+| Segurança | [Segurança e privacidade](09_Seguranca/seguranca-e-privacidade.md) |
+| Documentação | [Arquitetura](10_Documentacao/arquitetura.md) |
+| Versionamento | [Uso do GitHub](10_Documentacao/uso-do-github.md) |
 
 ## 👨‍🏫 Autor
 
@@ -156,9 +161,8 @@ Projeto profissional e pedagógico em desenvolvimento na área de Educação, Te
 
 ---
 
-## Author
+## 🌱 Status
 
-**Filipe G Morais**
+**Em desenvolvimento contínuo.**
 
-GitHub: https://github.com/sayjinblackbelt  
-Repository: https://github.com/sayjinblackbelt/Informatica_Educacional_MeuJogo
+O projeto evolui conforme novas atividades são testadas, avaliadas e documentadas.
