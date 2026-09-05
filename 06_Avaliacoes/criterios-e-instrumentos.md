@@ -49,3 +49,27 @@ A documentação pública do projeto deve apresentar somente critérios, instrum
 XP, níveis e desafios podem reforçar participação e progresso. A pontuação não deve substituir a avaliação pedagógica nem expor publicamente dificuldades individuais.
 
 > **Princípio:** avaliar para orientar o desenvolvimento, não para rotular o educando.
+
+
+## Rubrica de referência
+
+| Critério | Inicial | Em desenvolvimento | Autônomo |
+|---|---|---|---|
+| Compreensão | necessita mediação frequente | compreende com orientação pontual | compreende e explica |
+| Autonomia | depende de instruções | executa tarefas conhecidas | escolhe procedimentos |
+| Organização | necessita apoio | organiza com orientação | mantém organização |
+| Criação | reproduz modelos | adapta ideias | cria soluções próprias |
+| Resolução de problemas | identifica com ajuda | testa alternativas | investiga e resolve |
+| Segurança | reconhece riscos | aplica orientações | toma decisões responsáveis |
+
+### Uso da rubrica
+
+A rubrica deve apoiar feedback e planejamento, e não funcionar como rótulo permanente.
+
+Resultados individuais devem permanecer em sistemas apropriados e não devem ser publicados neste repositório.
+
+## Ciclo de avaliação
+
+**Objetivo → evidência → observação → feedback → ajuste → nova evidência**
+
+A avaliação deve produzir informação útil para melhorar a aprendizagem e o planejamento das próximas aulas.
