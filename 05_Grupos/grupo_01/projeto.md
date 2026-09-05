@@ -1,4 +1,4 @@
-# 🎮 Projeto do Grupo 01 — Universo Eivor
+# 🎮 Projeto — grupo_01 — Universo Eivor
 
 ## Status
 Projeto em desenvolvimento.
