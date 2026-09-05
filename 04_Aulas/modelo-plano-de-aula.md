@@ -55,3 +55,20 @@ Descrever apoio visual, repetição, tutoria passo a passo, simplificação ou e
 - Quais ajustes serão necessários?
 - Quem precisa de retomada?
 - Qual será o próximo passo?
+
+
+## Registro pós-aula
+
+### Evidências observadas
+- [ ] Objetivo alcançado
+- [ ] Objetivo parcialmente alcançado
+- [ ] Necessita retomada
+
+### Dificuldades recorrentes
+[Registrar padrões observados, sem identificar individualmente os participantes.]
+
+### Ajustes para a próxima aula
+[Registrar mudanças de conteúdo, ritmo, estratégia ou recurso.]
+
+### Sanitização
+Antes de publicar o registro, remover ou substituir qualquer dado que permita identificar um participante.
