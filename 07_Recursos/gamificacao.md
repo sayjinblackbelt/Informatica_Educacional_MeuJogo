@@ -20,7 +20,7 @@ Usar elementos de jogos para aumentar motivação, participação e persistênci
 - 81–120 XP: Criador Digital
 - 121+ XP: Mestre da Informática
 
-Os valores podem ser ajustados à turma.
+Os valores são apenas uma referência e podem ser ajustados à turma. XP não deve ser tratado como nota ou medida absoluta de aprendizagem.
 
 ## Regras pedagógicas
 
@@ -35,7 +35,7 @@ Os valores podem ser ajustados à turma.
 ### Missão Teclado
 Digitar um texto com acentuação e pontuação corretas.
 
-### Missão Windows
+### Missão Sistema
 Abrir um programa, localizar uma pasta e salvar um arquivo.
 
 ### Missão Organização
