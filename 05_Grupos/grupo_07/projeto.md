@@ -1,4 +1,4 @@
-# 🎮 Projeto do Grupo 07 — Campos de Batalhas
+# 🎮 Projeto — grupo_07 — Campos de Batalhas
 
 ## Status
 Projeto em desenvolvimento.
