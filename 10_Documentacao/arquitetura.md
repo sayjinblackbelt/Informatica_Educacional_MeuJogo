@@ -1,51 +1,27 @@
 # Arquitetura do Projeto
 
 ## Visão geral
+O repositório organiza o projeto pedagógico em dez áreas, separando planejamento, execução, acompanhamento, recursos, tecnologia, segurança e documentação.
 
-O projeto possui duas camadas complementares:
+## Estrutura
+- 01_Projeto — identidade, proposta e metodologia
+- 02_Planejamento — planejamento do percurso
+- 03_Curriculo — progressão e competências
+- 04_Aulas — modelos e registros
+- 05_Grupos — projetos criativos sanitizados
+- 06_Avaliacoes — critérios e instrumentos
+- 07_Recursos — materiais reutilizáveis
+- 08_Tecnologia — ferramentas e critérios tecnológicos
+- 09_Seguranca — segurança digital e privacidade
+- 10_Documentacao — arquitetura e manutenção
 
-1. **Oficina pedagógica:** planejamento, aulas, atividades, avaliações, materiais e projeto Meu Jogo.
-2. **Registro digital:** arquivos, instrumentos de avaliação e sistemas desenvolvidos para apoiar o acompanhamento pedagógico.
+## Fluxo
+**Planejar → ensinar → observar → avaliar → ajustar → documentar → versionar → reutilizar**
 
-## Estrutura atual do repositório
-
-    Informatica_Educacional_MeuJogo/
-    ├── 01_Projeto/
-    ├── 02_Planejamento/
-    ├── 03_Curriculo/
-    ├── 04_Aulas/
-    │   ├── modelo-plano-de-aula.md
-    │   └── 2026/
-    ├── 05_Grupos/
-    │   ├── grupo_01/
-    │   ├── grupo_02/
-    │   ├── grupo_03/
-    │   ├── grupo_04/
-    │   ├── grupo_05/
-    │   ├── grupo_06/
-    │   ├── grupo_07/
-    │   ├── grupo_08/
-    │   └── grupo_09/
-    ├── 06_Avaliacoes/
-    ├── 07_Recursos/
-    ├── 08_Tecnologia/
-    ├── 09_Seguranca/
-    ├── 10_Documentacao/
-    ├── README.md
-    └── CHANGELOG.md
-
-## Organização das aulas
-
-As aulas são organizadas por ano quando há registros datados. O modelo de plano permanece na raiz de 04_Aulas/, enquanto os registros de execução podem ser agrupados por ano.
-
-## Organização dos grupos
-
-Os projetos dos participantes são identificados publicamente apenas por números de grupo. Os registros publicados devem documentar ideias, narrativas e produtos criativos, sem identificar educandos ou registrar observações pedagógicas individuais.
+## Privacidade
+O repositório público não deve conter dados pessoais, avaliações individuais, frequência identificável, credenciais, secrets ou documentos institucionais confidenciais.
 
 ## Versionamento
+Alterações relevantes devem possuir commits objetivos. Mudanças estruturais ou pedagógicas importantes devem ser documentadas.
 
-O GitHub será utilizado como histórico do desenvolvimento do projeto. Alterações relevantes devem ser registradas com commits descritivos e mudanças pedagógicas importantes devem ser documentadas.
-
-## Princípio de separação
-
-O repositório público não deve conter dados pessoais identificáveis dos educandos, respostas individuais, registros de frequência identificáveis, credenciais, tokens, chaves de API ou outros dados institucionais/confidenciais.
+> **Princípio:** cada pasta deve responder a uma etapa clara do ciclo pedagógico e documental do projeto.
