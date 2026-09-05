@@ -1,4 +1,4 @@
-# ⚽ Projeto do Grupo 04 — Neyronaldo
+# ⚽ Projeto — grupo_04 — Neyronaldo
 
 ## Status
 Projeto em desenvolvimento.
