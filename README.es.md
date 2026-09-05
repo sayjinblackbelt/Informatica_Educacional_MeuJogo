@@ -136,13 +136,10 @@ See [Evaluación criteria and instruments](06_Avaliacoes/criterios-e-instrumento
 | Documentación | [Architecture](10_Documentacao/arquitetura.md) |
 | Versionado | [GitHub usage](10_Documentacao/uso-do-github.md) |
 
-## 👨‍🏫 Author
+## 👨‍🏫 About authorship
 
-**Filipe G Morais**
+Pedagogical project focused on educational computing, digital autonomy, creativity, structured thinking, problem solving, and expression through narratives and projects.
 
-Pedagogical project in Education, Educational Tecnología, and Digital Inclusion.
-
-GitHub: https://github.com/sayjinblackbelt
 
 ## 🌱 Status
 
