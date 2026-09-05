@@ -1,4 +1,4 @@
-# 🍌 Projeto do Grupo 05 — Dora e os Três Macacos
+# 🍌 Projeto — grupo_05 — Dora e os Três Macacos
 
 ## Status
 Projeto principal definido e em desenvolvimento.
