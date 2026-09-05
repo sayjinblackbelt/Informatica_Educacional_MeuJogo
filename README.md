@@ -27,7 +27,7 @@ Desenvolver autonomia digital por meio de experiências práticas, acessíveis e
 
 - **Área:** Informática Educacional
 - **Faixa etária principal:** aproximadamente 11 a 13 anos
-- **Ambiente:** laboratório de informática
+- **Ambiente:** espaço de aprendizagem com recursos computacionais
 - **Modelo:** prática individual ou colaborativa com computadores
 - **Perfil:** níveis variados de familiaridade com tecnologia e diferentes necessidades de aprendizagem
 
