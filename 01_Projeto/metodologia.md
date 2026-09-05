@@ -2,7 +2,7 @@
 
 ## 1. Princípio geral
 
-O projeto "Meu Jogo" utiliza a criação de histórias e jogos como metodologia de aprendizagem.
+O projeto "Meu Jogo" utiliza a criação de histórias e jogos como metodologia de aprendizagem, priorizando pensamento, criatividade, colaboração, autonomia e reflexão.
 
 A proposta não começa pela programação.
 
