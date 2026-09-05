@@ -2,7 +2,7 @@
 
 ## 1. O que é?
 
-"Meu Jogo" é um projeto da oficina de Informática Educacional da Fundação Eufraten no qual os educandos trabalham em duplas ou trios para criar uma história que possa futuramente se transformar em um jogo ou outro produto digital.
+"Meu Jogo" é um projeto pedagógico de Informática Educacional no qual os educandos trabalham em duplas ou trios para criar uma história que possa futuramente se transformar em um jogo ou outro produto digital.
 
 O projeto utiliza a tecnologia como ferramenta de criação, organização do pensamento, resolução de problemas e expressão.
 
@@ -37,7 +37,9 @@ Os projetos serão desenvolvidos em duplas ou trios. Cada integrante deverá par
 
 ## 6. Ferramentas
 
-Inicialmente serão utilizados recursos simples: Bloco de Notas, computador, teclado, mouse, internet, navegador e pendrive. Ferramentas de avatar, imagem e outros recursos poderão ser utilizados posteriormente conforme a proposta da turma.
+Inicialmente serão utilizados recursos simples, como computador, teclado, mouse, navegador e editor de texto.
+
+Dispositivos de armazenamento, como pendrives, são recursos opcionais e não constituem requisito do projeto. Ferramentas de avatar, imagem, apresentação e criação de jogos poderão ser utilizadas posteriormente conforme a proposta da turma.
 
 ## 7. Possíveis produtos finais
 
