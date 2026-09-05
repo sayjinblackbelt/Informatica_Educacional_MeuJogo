@@ -53,4 +53,7 @@ A progressão considera principalmente a evolução individual. O nível não de
 
 ### Uso pedagógico
 
+A progressão deve ser observada por meio de evidências produzidas nas atividades, nos projetos e nas reflexões. O avanço não depende apenas da execução técnica, mas também da capacidade de compreender, escolher, criar, revisar e agir com responsabilidade.
+
+
 A matriz serve como referência para planejamento e observação. Não constitui uma classificação rígida nem deve ser utilizada para exposição pública de desempenho individual.
