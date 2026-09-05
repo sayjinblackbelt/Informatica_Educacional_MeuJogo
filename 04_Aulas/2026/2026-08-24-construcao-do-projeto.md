@@ -1,186 +1,68 @@
-# Aula — 24/08/2026
+# Aula — Construção do Projeto
 
-## 🎮 Projeto: Meu Personagem, Meu Propósito
+**Data:** 24/08/2026  
+**Projeto:** Meu Jogo  
+**Grupo:** [identificador sanitizado]  
 
-**Instituição:** Fundação Eufraten  
-**Oficina:** Informática Educacional  
-**Educador:** Filipe G. Morais  
-**Formato:** Duplas ou trios  
-**Ferramenta principal:** Bloco de Notas  
-**Armazenamento:** Pendrive
+## Objetivo
+Organizar a ideia inicial do projeto e transformar uma proposta ainda abstrata em elementos concretos de narrativa.
 
----
+## Competências trabalhadas
+- organização do pensamento;
+- criatividade;
+- comunicação;
+- colaboração;
+- planejamento;
+- autonomia digital;
+- construção narrativa.
 
-## 🎯 Objetivo da aula
+## Desenvolvimento
 
-Desenvolver e organizar as histórias iniciadas pelos educandos, permitindo tanto a continuidade dos projetos existentes quanto a criação de novas histórias para quem ainda não iniciou ou desistiu anteriormente.
+### 1. Retomada
+Relembrar a proposta do projeto e a relação entre propósito, personagem, mundo, problema e desafios.
 
-O foco é compreender que uma narrativa precisa possuir **propósito, personagem, mundo, problema, desafios, começo, meio e fim**, e que o protagonista deve apresentar transformação ao longo da história.
-
----
-
-## 🧩 Organização dos grupos
-
-### Grupos que já iniciaram uma história
-
-- Retomar o arquivo existente.
-- Revisar a ideia original.
-- Identificar lacunas.
-- Enriquecer mundo e personagens.
-- Desenvolver melhor o conflito e o meio da narrativa.
-
-### Grupos que ainda não possuem história
-
-- Criar uma nova proposta a partir das perguntas norteadoras.
-- Definir propósito antes de procurar referências visuais.
-- Construir protagonista, mundo e conflito progressivamente.
-
----
-
-## 🧠 Estrutura de criação
-
-**PROPÓSITO → PERSONAGEM → MUNDO → PROBLEMA → DESAFIOS → ESCOLHAS → CONSEQUÊNCIAS → TRANSFORMAÇÃO → FINAL**
-
-### Regra de ouro
-
-> **No final da história, o protagonista precisa estar mais próximo de seu propósito do que estava no começo.**
-
----
-
-## 🎯 Atividades da aula
-
-### 1. Definição do propósito
-
-Perguntas:
-
-- O que o protagonista quer alcançar?
-- Por que isso é importante?
-- O que ele precisa aprender?
-- O que precisa mudar?
-
-### 2. Construção do protagonista
-
-Registrar:
-
-- nome;
-- idade;
-- aparência;
-- personalidade;
-- qualidade;
-- defeito;
-- medo;
-- habilidade;
-- fraqueza;
-- desejo;
-- propósito.
-
-### 3. Construção do mundo
-
-Registrar:
-
-- nome do mundo;
-- onde acontece;
-- quando acontece;
-- quem vive nele;
-- regras;
-- lugares;
-- elementos especiais;
-- problemas.
-
-### 4. Construção do conflito
-
-Perguntas:
-
-- O que aconteceu?
-- Qual é o problema central?
-- Quem é afetado?
-- O que pode acontecer se ninguém resolver?
-
-### 5. Organização do começo e do meio
-
-**Começo:** personagem + mundo + desejo + problema.
-
-**Meio:** desafios + escolhas + consequências + aprendizados.
-
-Pergunta principal:
-
-> **O que precisa acontecer para o personagem mudar?**
-
-### 6. Referência visual
-
-Depois de criar o personagem por palavras, pesquisar uma imagem de referência ou criar um avatar.
-
-Princípio:
-
-**Pesquisar → observar → selecionar → adaptar → criar**
-
-Evitar copiar personagens ou histórias existentes.
-
-### 7. Organização digital
-
-Salvar os arquivos com nomes claros e organizar imagens e textos para posterior transferência ao pendrive.
-
----
-
-## 🌱 Relação com os cinco movimentos do autoconhecimento
-
-### 👁️ Observar
-Perceber o problema ou a situação.
-
-### 🧠 Refletir
-Pensar sobre possibilidades.
-
-### 🎯 Tomar uma decisão
-Escolher um caminho.
-
-### 🛠️ Agir
-Executar a escolha.
-
-### ⏳ Saber esperar
-Lidar com consequências e compreender que resultados e mudanças levam tempo.
-
----
-
-## ❓ Perguntas maiêuticas utilizadas
-
-- Por que isso acontece?
-- O que poderia acontecer depois?
-- E se o personagem escolher outro caminho?
-- Qual seria a consequência?
-- Isso combina com o personagem?
-- O que mudou?
-- O personagem aprendeu alguma coisa?
-- Como o propósito aparece na história?
-
----
-
-## 📌 Resultado esperado
-
-Ao final da aula, cada dupla/trio deverá possuir pelo menos:
-
-- título da história;
+### 2. Construção
+O grupo desenvolve os elementos principais da história:
 - propósito;
 - protagonista;
-- características do protagonista;
 - mundo;
-- problema principal;
-- início do enredo;
-- primeiros desafios do meio;
-- referência visual do personagem;
-- arquivo salvo e organizado.
+- problema;
+- desafios;
+- escolhas;
+- consequências;
+- transformação;
+- final.
 
-A história não precisa estar finalizada nesta aula.
+### 3. Registro digital
+Registrar as decisões em arquivos organizados no repositório, utilizando somente identificadores sanitizados.
 
----
+### 4. Revisão
+Verificar se:
+- o protagonista possui um propósito;
+- existe um problema central;
+- os desafios estão relacionados ao problema;
+- as escolhas produzem consequências;
+- existe transformação;
+- o final se relaciona ao propósito.
 
-## 🔜 Próxima etapa
+## Reflexão
+Perguntas orientadoras:
+- O que o personagem realmente quer?
+- Por que isso é importante?
+- O que impede o personagem?
+- O que ele precisa aprender?
+- Que consequência terá cada escolha?
+- O que estará diferente no final?
 
-A continuidade do projeto deverá trabalhar:
+## Evidências de aprendizagem
+Observar se o grupo consegue explicar sua ideia, justificar escolhas, organizar os elementos narrativos e registrar as decisões de forma compreensível.
 
-- enriquecimento do mundo;
-- personagens secundários;
-- desafios e obstáculos;
-- escolhas e consequências;
-- transformação do protagonista;
-- construção do final;
-- relação entre começo, meio, fim e propósito.
+## Adaptações
+Para grupos que apresentarem dificuldade, utilizar modelos, exemplos, perguntas mais objetivas e etapas menores.
+
+Para grupos com maior autonomia, propor múltiplas escolhas, consequências alternativas e maior complexidade narrativa.
+
+## Próximo passo
+Retomar o material produzido e aprofundar personagens, mundo e conflito na próxima etapa.
+
+> **Privacidade:** não registrar neste documento nomes completos, contatos, avaliações individuais ou outras informações pessoais dos educandos.
