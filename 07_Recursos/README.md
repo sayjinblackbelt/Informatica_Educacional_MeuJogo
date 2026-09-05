@@ -8,7 +8,7 @@ Este diretório reúne recursos reutilizáveis para apoiar as aulas e o desenvol
 - [Guia de Recursos](./guia-de-recursos.md) — critérios para selecionar, organizar e utilizar materiais.
 - [Checklist](./checklist-recursos.md) — verificação rápida antes de publicar ou utilizar um recurso.
 
-## Estrutura prevista
+## Estrutura
 
 ```
 07_Recursos/
@@ -21,6 +21,10 @@ Este diretório reúne recursos reutilizáveis para apoiar as aulas e o desenvol
 ├── checklists/
 └── referencias/
 ```
+
+## Critério de inclusão
+
+Um arquivo deve entrar nesta pasta quando for **reutilizável como recurso pedagógico** ou quando documentar uma regra necessária para sua seleção, utilização ou publicação. Registros específicos de uma aula pertencem a `04_Aulas/`.
 
 ## Privacidade
 
