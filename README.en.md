@@ -2,42 +2,39 @@
 
 [🇧🇷 Português](README.md) | 🇺🇸 English | [🇪🇸 Español](README.es.md)
 
-> A pedagogical and professional digital-education project focused on technological autonomy, creativity, reasoning, problem solving, and expression through storytelling and game creation.
+> A pedagogical digital-education project focused on technological autonomy, creativity, structured thinking, problem solving, and expression through storytelling and game creation.
 
 ## 📌 About the project
 
-This repository brings together pedagogical planning, learning materials, assessments, digital resources, and projects developed within an **Educational Computing** program.
+**My Game** is an integrative Educational Computing project. Storytelling, characters, worlds, and prototypes provide a practical context for learning technology in a meaningful way.
 
-The **My Game** pathway uses storytelling and game creation as learning strategies to develop creativity, structured thinking, reasoning, problem solving, collaboration, expression, and self-awareness.
+The repository brings together project design, planning, curriculum, lessons, group projects, assessment, resources, technology, safety, and documentation.
 
-To preserve the public and reusable nature of the portfolio, the project is presented independently without naming specific institutions.
+The public version is **sanitized and reusable**, without personal data or confidential institutional information.
 
 ## 🎯 Purpose
 
-Develop digital autonomy through practical, accessible, and meaningful experiences, enabling participants to:
-
-- understand and use computers;
-- develop fundamental digital skills;
-- create and organize files and content;
-- research and use the internet safely;
-- create digital projects;
-- develop critical thinking, creativity, and problem-solving skills.
+Develop digital autonomy through practical, accessible, and meaningful experiences, enabling participants to understand and use digital resources, organize files, create digital content, research and evaluate information, use the internet responsibly, solve problems, and develop projects.
 
 ## 👥 Audience and context
 
 - **Area:** Educational Computing
-- **Main age range:** approximately 11 to 13 years old
-- **Environment:** computer laboratory
-- **Model:** individual or collaborative computer-based practice
-- **Profile:** varied familiarity with technology and different learning needs
+- **Reference age range:** approximately 11–13 years
+- **Format:** individual, pair, or small-group activities
+- **Environment:** learning environment with computing resources
+- **Profile:** varied levels of experience and learning needs
+
+The proposal can be adapted to other audiences and contexts.
 
 ## 🧠 Pedagogical approach
 
-The program combines simple explanations, demonstrations, guided practice, individual activities, purposeful repetition, challenges, and reflection.
+The pathway combines:
 
-When appropriate, **gamification** elements — missions, levels, XP, and challenges — are used to support engagement and persistence. Gamification must not be used to expose, label, or exclude participants.
+**explanation → demonstration → guided practice → creation → challenge → reflection**
 
-The learning pathway is organized around five movements:
+Gamification may use missions, levels, XP, and challenges as motivational elements. It does not replace pedagogical assessment or justify exposing or labeling participants.
+
+### Five movements
 
 1. Observe
 2. Reflect
@@ -47,47 +44,26 @@ The learning pathway is organized around five movements:
 
 ## 📚 Course progression
 
-1. **Digital Explorer** — recognize computers and their components.
-2. **Technology Apprentice** — use an operating system, keyboard, mouse, files, and basic tools.
-3. **Digital Creator** — produce texts, presentations, research, and projects.
-4. **Computer Mastery** — work with greater autonomy and solve simple challenges.
+1. **Digital Explorer** — recognizes computing resources and develops initial familiarity.
+2. **Technology Learner** — uses files, keyboard, mouse, system, and basic tools.
+3. **Digital Creator** — produces texts, presentations, research, and projects.
+4. **Computing Master** — works with greater autonomy and solves simple challenges.
+
+Details: [Progression framework](03_Curriculo/linha-de-progressao.md).
 
 ## 🎮 Integrative Project — My Game
 
-The project uses storytelling and game creation as learning tools.
-
-Reference narrative:
+The flexible creative process follows:
 
 **Purpose → Character → World → Problem → Challenges → Choices → Transformation → Ending**
 
-Projects may be individual, collaborative, or developed in small groups and can result in digital stories, games, comics, presentations, prototypes, scripts, animations, or other creative products.
+The final product may be a digital story, game, comic, presentation, script, animation, prototype, or another digital artifact.
 
-### Golden rule
+> **Golden rule:** by the end of the story, the protagonist should be closer to their purpose than at the beginning.
 
-> **By the end of the story, the protagonist should be closer to their purpose than they were at the beginning.**
-
-## 🚀 Development path
+### Development path
 
 **Idea → Character → World → Story → Challenges → Prototype → Digital Product → Game**
-
-Participants do not need to begin by building a complete game. Each stage can produce a meaningful result and provide the foundation for the next one.
-
-## 🔐 Safety and privacy
-
-Digital safety is part of the curriculum. Public documentation must use fictional, anonymized, or aggregated data whenever necessary.
-
-The public repository must not contain personal data, individual responses, identifiable attendance records, credentials, tokens, or API keys.
-
-## 📈 Assessment
-
-Assessment is continuous and considers understanding, autonomy, accuracy, organization, participation, creativity, and problem-solving ability.
-
-## 👨‍🏫 Author
-
-**Filipe Gimenes de Morais**
-
-Professional and pedagogical project in development in Education, Educational Technology, and Digital Inclusion.
-
 
 ## 🗂️ Repository structure
 
@@ -102,6 +78,74 @@ Professional and pedagogical project in development in Education, Educational Te
 08_Tecnologia/
 09_Seguranca/
 10_Documentacao/
+README.md
+README.en.md
+README.es.md
+CHANGELOG.md
 ```
 
-Public group records are anonymized and identified only by group number. Individual educational observations and personal data are not part of the public repository.
+See [Architecture](10_Documentacao/arquitetura.md).
+
+## 🔧 Technology
+
+Documentation prioritizes **pedagogical functions**, not dependence on specific brands or platforms.
+
+See [Tools and technology criteria](08_Tecnologia/ferramentas.md).
+
+## 🔐 Safety and privacy
+
+The project follows data minimization and sanitization principles for public documentation.
+
+Do not publish:
+
+- participants' full names or contacts;
+- personal documents;
+- individual assessments;
+- identifiable attendance records;
+- passwords, tokens, or API keys;
+- private links containing credentials;
+- confidential documents.
+
+See [Safety and privacy](09_Seguranca/seguranca-e-privacidade.md).
+
+## 📈 Assessment
+
+Assessment follows development and considers evidence such as:
+
+- understanding;
+- autonomy;
+- organization;
+- creation;
+- problem solving;
+- safe and responsible use of technology.
+
+See [Assessment criteria and instruments](06_Avaliacoes/criterios-e-instrumentos.md).
+
+## 📂 Main documentation
+
+| Area | Document |
+|---|---|
+| Project | [Proposal](01_Projeto/proposta.md) |
+| Planning | [Course plan](02_Planejamento/plano-curso-2026.md) |
+| Curriculum | [Progression framework](03_Curriculo/linha-de-progressao.md) |
+| Lessons | [Lesson plan template](04_Aulas/modelo-plano-de-aula.md) |
+| Assessment | [Criteria and instruments](06_Avaliacoes/criterios-e-instrumentos.md) |
+| Resources | [Gamification](07_Recursos/gamificacao.md) |
+| Technology | [Tools](08_Tecnologia/ferramentas.md) |
+| Safety | [Safety and privacy](09_Seguranca/seguranca-e-privacidade.md) |
+| Documentation | [Architecture](10_Documentacao/arquitetura.md) |
+| Versioning | [GitHub usage](10_Documentacao/uso-do-github.md) |
+
+## 👨‍🏫 Author
+
+**Filipe G Morais**
+
+Pedagogical project in Education, Educational Technology, and Digital Inclusion.
+
+GitHub: https://github.com/sayjinblackbelt
+
+## 🌱 Status
+
+**Continuously evolving.**
+
+The repository evolves as new activities are tested, evaluated, documented, and improved.
