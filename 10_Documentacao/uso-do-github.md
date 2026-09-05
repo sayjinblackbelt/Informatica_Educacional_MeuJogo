@@ -1,48 +1,52 @@
 # Uso do GitHub no Projeto
 
 ## Finalidade
+O GitHub funciona como repositório de documentação, histórico de desenvolvimento e, quando aplicável, código e recursos digitais.
 
-O GitHub funciona como repositório de documentação, histórico e, posteriormente, código e recursos digitais desenvolvidos para a oficina.
-
-## O que registrar
-
-- planejamento do curso;
-- planos de aula consolidados;
+## Registrar
+- planejamento consolidado;
+- planos e registros de aula;
 - decisões pedagógicas;
 - atividades reutilizáveis;
-- versões de apresentações e materiais quando apropriado;
-- projetos digitais dos educandos apenas quando houver autorização institucional e formato adequado;
-- código-fonte de aplicações educacionais;
-- melhorias realizadas no sistema.
+- materiais próprios;
+- projetos digitais sanitizados;
+- código-fonte;
+- melhorias realizadas.
 
-## O que não registrar
-
-Nunca versionar:
-
+## Não registrar
 - senhas;
 - tokens;
 - chaves de API;
-- dados pessoais de menores;
+- arquivos de credenciais;
+- dados pessoais;
 - listas de presença identificáveis;
-- respostas individuais de avaliações;
-- documentos internos ou confidenciais da instituição.
+- respostas ou avaliações individuais;
+- documentos internos ou confidenciais;
+- links privados com credenciais.
 
-## Convenção de commits
+## Antes de publicar
+**Revisar → sanitizar → verificar secrets → verificar licenças → testar → publicar**
 
-Usar mensagens objetivas, por exemplo:
-
+## Commits
+Usar mensagens objetivas:
 - `docs: adiciona plano de aula`
-- `docs: atualiza roteiro de avaliação`
-- `feat: adiciona atividade interativa`
-- `fix: corrige exercício`
+- `docs: atualiza avaliação`
+- `feat: adiciona atividade`
+- `fix: corrige atividade`
 - `refactor: reorganiza documentação`
+- `chore: atualiza estrutura`
 
-## Fluxo recomendado
-
+## Fluxo pedagógico
 1. Planejar.
-2. Testar em sala.
-3. Registrar observações.
-4. Ajustar.
-5. Versionar a melhoria no GitHub.
+2. Aplicar.
+3. Observar.
+4. Identificar dificuldades.
+5. Ajustar.
+6. Registrar.
+7. Versionar.
+8. Reutilizar.
 
-O objetivo é transformar a experiência real da oficina em um acervo reutilizável e evolutivo.
+## Branch principal
+A `main` deve representar uma versão funcional e revisada. Alterações experimentais podem ser desenvolvidas separadamente e integradas depois de verificadas.
+
+> **Regra de ouro:** preservar o conhecimento do projeto sem expor informações pessoais ou confidenciais.
