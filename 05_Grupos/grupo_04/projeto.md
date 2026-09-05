@@ -18,7 +18,7 @@ Jogo de esporte e aventura centrado em futebol, velocidade, dribles e desafios p
 Fazer um gol.
 
 ## Antagonista
-**Sergio Ramos**
+**Defensor Veterano**
 
 - Função: defensor
 - Objetivo: impedir Neyronaldo de chegar ao gol
