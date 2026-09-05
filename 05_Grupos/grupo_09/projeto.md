@@ -1,4 +1,4 @@
-# 🌲 Projeto do Grupo 09 — Floresta Mágica
+# 🌲 Projeto — grupo_09 — Floresta Mágica
 
 ## Status
 Projeto em desenvolvimento.
