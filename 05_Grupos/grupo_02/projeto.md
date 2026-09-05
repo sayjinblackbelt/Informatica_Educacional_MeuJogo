@@ -1,4 +1,4 @@
-# 🕷️ Projeto do Grupo 02 — Herói e Vilão
+# 🕷️ Projeto — grupo_02 — Herói e Vilão
 
 ## Status
 Projeto em desenvolvimento.
