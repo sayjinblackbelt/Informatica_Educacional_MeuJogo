@@ -2,11 +2,10 @@
 
 ## 1. Identificação
 
-- **Instituição:** 
 - **Oficina:** Informática Educacional
-- **Educador:** Filipe
+- **Responsável pedagógico:** equipe educacional
 - **Público principal:** educandos de 11 a 13 anos
-- **Formato:** aulas presenciais em laboratório de informática
+- **Formato:** aulas presenciais em ambiente de aprendizagem com recursos computacionais
 - **Estrutura:** computador disponível para cada educando, sempre que possível
 - **Período:** ano letivo de 2026
 - **Duração de referência:** aproximadamente 90 a 120 minutos por aula, conforme a organização do atendimento
