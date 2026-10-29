@@ -1,6 +1,6 @@
 # Marlon: A Cidade Destruída
 
-- **Autoria pública:** Nicolas
+- **Autoria pública:** Nicolas e Apolo
 - **Plataforma:** Instaplay
 - **Status documental:** link informado; validação pendente
 - **Jogar:** [Abrir no Instaplay](https://www.instaplay.ai/play/6059be55?ref=cybercrow87)
