@@ -1,7 +1,7 @@
 # Arquitetura do Projeto
 
 ## Visão geral
-O repositório organiza o projeto pedagógico em dez áreas, separando planejamento, execução, acompanhamento, recursos, tecnologia, segurança e documentação.
+O repositório organiza o projeto pedagógico em dez áreas principais, acrescidas do catálogo de jogos e da vitrine web estática, separando planejamento, execução, acompanhamento, recursos, tecnologia, segurança e documentação.
 
 ## Estrutura
 - 01_Projeto — identidade, proposta e metodologia
@@ -14,6 +14,8 @@ O repositório organiza o projeto pedagógico em dez áreas, separando planejame
 - 08_Tecnologia — ferramentas e critérios tecnológicos
 - 09_Seguranca — segurança digital e privacidade
 - 10_Documentacao — arquitetura e manutenção
+- 11_Catalogo_Jogos — inventário público e fichas individuais dos jogos
+- site — vitrine web estática em três idiomas, publicada pelo GitHub Pages
 
 ## Fluxo
 **Planejar → ensinar → observar → avaliar → ajustar → documentar → versionar → reutilizar**
