@@ -1,38 +1,22 @@
 # 🎮 Educational Computing — My Game
 
-[🇧🇷 Português](README.md) | 🇺🇸 English | [🇪🇸 Español](README.es.md)
+[🇧🇷 Português](README.md) | 🇺🇸 English | [🇪🇸 Español](README.es.md) | [🌐 GitHub Pages showcase](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/)
 
-> A pedagogical digital-education project focused on technological autonomy, creativity, structured thinking, problem solving, and expression through storytelling and game creation.
+> A digital-learning project that develops technological autonomy, creativity, structured thinking, problem-solving and expression through storytelling and game creation.
 
-## 📌 About the project
+## About the project
 
-**My Game** is an integrative Educational Computing project. Storytelling, characters, worlds, and prototypes provide a practical context for learning technology in a meaningful way.
+**My Game** is an integrative Educational Computing project. Stories, characters, worlds and prototypes provide a practical context for meaningful technology learning. This repository organizes the pedagogical approach, course planning, lessons, group projects, assessment, reusable resources, technology guidance, safety and documentation.
 
-The repository brings together project design, planning, curriculum, lessons, group projects, assessment, resources, technology, safety, and documentation.
+The public repository should remain reusable and privacy-conscious. Do not publish personal data or confidential institutional information.
 
-The public version is **sanitized and reusable**, without personal data or confidential institutional information.
+## Purpose and audience
 
-## 🎯 Purpose
+The project builds digital autonomy through practical experiences in which learners use computers, organize files, create digital content, research responsibly, solve problems and develop projects. The main reference audience is approximately 11–13 years old; activities can be adapted to other contexts and learning needs.
 
-Develop digital autonomy through practical, accessible, and meaningful experiences, enabling participants to understand and use digital resources, organize files, create digital content, research and evaluate information, use the internet responsibly, solve problems, and develop projects.
+## Pedagogical approach
 
-## 👥 Audience and context
-
-- **Area:** Educational Computing
-- **Reference age range:** approximately 11–13 years
-- **Format:** individual, pair, or small-group activities
-- **Environment:** learning environment with computing resources
-- **Profile:** varied levels of experience and learning needs
-
-The proposal can be adapted to other audiences and contexts.
-
-## 🧠 Pedagogical approach
-
-The pathway combines:
-
-**explanation → demonstration → guided practice → creation → challenge → reflection**
-
-Gamification may use missions, levels, XP, and challenges as motivational elements. It does not replace pedagogical assessment or justify exposing or labeling participants.
+The learning process combines explanation, demonstration, guided practice, creation, challenge and reflection. When appropriate, gamification can include missions, levels, XP and challenges without exposing, labeling or excluding learners.
 
 ### Five movements
 
@@ -42,107 +26,52 @@ Gamification may use missions, levels, XP, and challenges as motivational elemen
 4. Act
 5. Know when to wait
 
-## 📚 Course progression
-
-1. **Digital Explorer** — recognizes computing resources and develops initial familiarity.
-2. **Technology Learner** — uses files, keyboard, mouse, system, and basic tools.
-3. **Digital Creator** — produces texts, presentations, research, and projects.
-4. **Computing Master** — works with greater autonomy and solves simple challenges.
-
-Details: [Progression framework](03_Curriculo/linha-de-progressao.md).
-
-## 🎮 Integrative Project — My Game
-
-The flexible creative process follows:
+The creative sequence is:
 
 **Purpose → Character → World → Problem → Challenges → Choices → Transformation → Ending**
 
-The final product may be a digital story, game, comic, presentation, script, animation, prototype, or another digital artifact.
-
 > **Golden rule:** by the end of the story, the protagonist should be closer to their purpose than at the beginning.
 
-### Development path
+## 🎮 2026 game showcase
 
-**Idea → Character → World → Story → Challenges → Prototype → Digital Product → Game**
+The project documents seven games created by learners with support from Instaplay and a complementary chess project created by the educator.
 
-## 🗂️ Repository structure
+| Game | Public credit | Status recorded |
+|---|---|---|
+| [Dora and the 3 Monkeys](https://www.instaplay.ai/play/de4fa7c7?ref=quickarrow140) | Mailyn, Felipe, Wendel and Emily | Link recorded; validate |
+| [Eivor: The Power of the Multiverse](https://www.instaplay.ai/play/393f981a?ref=quickarrow140) | Arthur | Link recorded; validate |
+| [Battlefields](https://www.instaplay.ai/play/campos-de-batalhas/12149968) | Renan | Validate link and mechanics |
+| [Impossible Football: Legends Arcade](https://www.instaplay.ai/play/428ff247?ref=cybercrow87) | Pedro, Yury and Kauã | Priority gameplay improvements |
+| [Sheriffs vs Outlaws](https://www.instaplay.ai/play/db8f00a9?ref=cybercrow87) | Ruan | Link recorded; validate |
+| [The Magic Forest](https://www.instaplay.ai/play/acb8330c?ref=cybercrow87) | Vitória and Kaylane | Extend gameplay |
+| [Marlon: The Destroyed City](https://www.instaplay.ai/play/6059be55?ref=cybercrow87) | Nicolas | Link recorded; validate |
+| [NEXUS Chess](https://nexus-chess.base44.app) | Educator | Complementary project |
 
-```text
-01_Projeto/
-02_Planejamento/
-03_Curriculo/
-04_Aulas/
-05_Grupos/
-06_Avaliacoes/
-07_Recursos/
-08_Tecnologia/
-09_Seguranca/
-10_Documentacao/
-README.md
-README.en.md
-README.es.md
-CHANGELOG.md
-```
+“Link recorded” does not mean every game mechanic has been tested. The [individual project records](11_Catalogo_Jogos/README.md) track concepts, planned checks and next steps. The [web showcase](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) provides a responsive three-language entry point.
 
-See [Architecture](10_Documentacao/arquitetura.md).
+## Repository structure
 
-## 🔧 Technology
+- `01_Projeto/` — project identity, proposal and methodology
+- `02_Planejamento/` — course planning and learning sequence
+- `03_Curriculo/` — progression and competencies
+- `04_Aulas/` — lesson templates and records
+- `05_Grupos/` — sanitized group projects
+- `06_Avaliacoes/` — assessment criteria and instruments
+- `07_Recursos/` — reusable materials and gamification
+- `08_Tecnologia/` — tools and technology criteria
+- `09_Seguranca/` — digital safety and privacy
+- `10_Documentacao/` — architecture and maintenance
+- `11_Catalogo_Jogos/` — game inventory and individual records
+- `site/` — static website published with GitHub Pages
 
-Documentation prioritizes **pedagogical functions**, not dependence on specific brands or platforms.
+See [project architecture](10_Documentacao/arquitetura.md) and [GitHub workflow guidance](10_Documentacao/uso-do-github.md).
 
-See [Tools and technology criteria](08_Tecnologia/ferramentas.md).
+## Safety, privacy and authorship
 
-## 🔐 Safety and privacy
+Public documentation uses only the first names supplied for credits. Do not publish full names, contacts, identifiable photos, individual assessments, identifiable attendance records, credentials, API keys or confidential documents. Do not assign projects to learners unless authorship is confirmed.
 
-The project follows data minimization and sanitization principles for public documentation.
+## Assessment and continuous improvement
 
-Do not publish:
+Assessment considers understanding, autonomy, organization, creativity, participation, safe technology use and problem-solving. Game records must distinguish between reported features and features verified through testing.
 
-- participants' full names or contacts;
-- personal documents;
-- individual assessments;
-- identifiable attendance records;
-- passwords, tokens, or API keys;
-- private links containing credentials;
-- confidential documents.
-
-See [Safety and privacy](09_Seguranca/seguranca-e-privacidade.md).
-
-## 📈 Assessment
-
-Assessment follows development and considers evidence such as:
-
-- understanding;
-- autonomy;
-- organization;
-- creation;
-- problem solving;
-- safe and responsible use of technology.
-
-See [Assessment criteria and instruments](06_Avaliacoes/criterios-e-instrumentos.md).
-
-## 📂 Main documentation
-
-| Area | Document |
-|---|---|
-| Project | [Proposal](01_Projeto/proposta.md) |
-| Planning | [Course plan](02_Planejamento/plano-curso-2026.md) |
-| Curriculum | [Progression framework](03_Curriculo/linha-de-progressao.md) |
-| Lessons | [Lesson plan template](04_Aulas/modelo-plano-de-aula.md) |
-| Assessment | [Criteria and instruments](06_Avaliacoes/criterios-e-instrumentos.md) |
-| Resources | [Gamification](07_Recursos/gamificacao.md) |
-| Technology | [Tools](08_Tecnologia/ferramentas.md) |
-| Safety | [Safety and privacy](09_Seguranca/seguranca-e-privacidade.md) |
-| Documentation | [Architecture](10_Documentacao/arquitetura.md) |
-| Versioning | [GitHub usage](10_Documentacao/uso-do-github.md) |
-
-## 👨‍🏫 About authorship
-
-Pedagogical project focused on educational computing, digital autonomy, creativity, structured thinking, problem solving, and expression through narratives and projects.
-
-
-## 🌱 Status
-
-**Continuously evolving.**
-
-The repository evolves as new activities are tested, evaluated, documented, and improved.
+**Status: continuously evolving.** The repository is updated as activities are tested, documented and improved.
