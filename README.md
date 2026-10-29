@@ -68,6 +68,38 @@ Os projetos podem ser realizados individualmente, em duplas ou em pequenos grupo
 
 > **No final da história, o protagonista precisa estar mais próximo de seu propósito do que estava no começo.**
 
+## 🕹️ Catálogo de jogos — Informática Educacional 2026
+
+Esta seção registra os jogos desenvolvidos pelos educandos com apoio do Instaplay e o projeto complementar criado pelo educador. Os links abaixo foram informados para documentação; a inclusão no catálogo **não significa que todas as funcionalidades tenham sido testadas ou validadas**.
+
+### Jogos desenvolvidos pelos educandos
+
+| Jogo | Autoria pública | Descrição resumida | Situação / próxima etapa |
+|---|---|---|---|
+| [Dora e os 3 Macacos](https://www.instaplay.ai/play/de4fa7c7?ref=quickarrow140&utm_source=chatgpt.com) | Mailyn, Felipe, Wendel e Emily | Aventura no Templo da Floresta dos Cavaleiros Sagrados, com guardiões, enigmas, tentativas limitadas e checkpoints. Um desafio trabalha observar, refletir, decidir, agir e saber esperar. | Link registrado; validar a experiência de jogo. |
+| [Eivor: O Poder do Multiverso](https://www.instaplay.ai/play/393f981a?ref=quickarrow140&utm_source=chatgpt.com) | Arthur | Aventura fantástica sobre alterar a realidade, enfrentar conflitos, lidar com traição e controlar a raiva. | Link registrado; validar a experiência de jogo. |
+| [Campos de Batalhas](https://www.instaplay.ai/play/campos-de-batalhas/12149968?utm_source=chatgpt.com) | Renan | RPG de ação com Glitch, Vírus, fases, equipamentos e gemas raras; a proposta enfatiza escolhas conscientes em vez de agir por impulso. | Validar o link e as funcionalidades. |
+| [Futebol Impossível: Legends Arcade](https://www.instaplay.ai/play/428ff247?ref=cybercrow87&utm_source=chatgpt.com) | Pedro, Yury e Kauã | Futebol arcade com passes, chutes, trajetórias incomuns e personagens inspirados em jogadores famosos. | Precisa de melhorias; priorizar controles, física da bola, ciclo completo da partida, personagens e acabamento. |
+| [Xerifes vs Furtivos](https://www.instaplay.ai/play/db8f00a9?ref=cybercrow87&utm_source=chatgpt.com) | Ruan | Ação em terceira pessoa numa ilha com disputa por recursos; a investigação sugere que DT manipula as facções para controlar petróleo e outros recursos. | Link registrado; validar a experiência individual. |
+| [A Floresta Mágica](https://www.instaplay.ai/play/acb8330c?ref=cybercrow87&utm_source=chatgpt.com) | Vitória e Kaylane | Jogo de fantasia avaliado positivamente pelo educador. | Ampliar a duração e a experiência de jogo. |
+| [Marlon: A Cidade Destruída](https://www.instaplay.ai/play/6059be55?ref=cybercrow87&utm_source=chatgpt.com) | Nicolas | Ação em uma cidade destruída, com combate contra demônios e habilidades especiais do protagonista. | Link registrado; validar a experiência de jogo. |
+
+### Projeto complementar do educador
+
+| Projeto | Autoria | Descrição | Situação |
+|---|---|---|---|
+| [NEXUS Chess](https://nexus-chess.base44.app) | Educador | Xadrez digital criado como recurso complementar para experiências de aprendizagem. | Publicado; manter separado dos jogos de autoria dos educandos. |
+
+### Pendências de acompanhamento
+
+- Testar cada link e registrar problemas observados diretamente.
+- Melhorar primeiro a jogabilidade de **Futebol Impossível: Legends Arcade**.
+- Expandir **A Floresta Mágica**.
+- Confirmar as funcionalidades efetivamente implementadas em cada jogo.
+- Localizar os projetos de outros educandos ainda não identificados, incluindo Apolo e Amanda, sem atribuir autoria ou projeto sem confirmação.
+
+**Privacidade e autoria:** esta documentação pública utiliza apenas os primeiros nomes informados. Antes de publicar novas informações, imagens ou materiais, verificar se não expõem dados pessoais dos educandos. As descrições são registros do inventário pedagógico e devem ser atualizadas após os testes.
+
 ## 🚀 Caminho de evolução
 
 **Ideia → Personagem → Mundo → História → Desafios → Protótipo → Produto Digital → Jogo**
