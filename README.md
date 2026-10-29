@@ -1,6 +1,6 @@
 # 🎮 Informática Educacional — Meu Jogo
 
-🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md) | [🌐 Vitrine GitHub Pages](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/)
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md) | [🌐 Vitrine GitHub Pages](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) | [🌐 Vitrine GitHub Pages](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/)
 
 > Projeto pedagógico e profissional de educação digital voltado ao desenvolvimento de autonomia tecnológica, criatividade, raciocínio, resolução de problemas e expressão por meio da criação de histórias e jogos.
 
@@ -123,13 +123,15 @@ Informatica_Educacional_MeuJogo/
 ├── 10_Documentacao/
 ├── 11_Catalogo_Jogos/
 ├── site/                         # Vitrine web publicada no GitHub Pages
+├── 11_Catalogo_Jogos/
+├── site/                         # Vitrine web publicada no GitHub Pages
 ├── README.md
 ├── README.en.md
 ├── README.es.md
 └── CHANGELOG.md
 ```
 
-A arquitetura completa está em [10_Documentacao/arquitetura.md](10_Documentacao/arquitetura.md). O catálogo organizado por projeto está em [11_Catalogo_Jogos/](11_Catalogo_Jogos/README.md) e a [vitrine web](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) apresenta os jogos em três idiomas.
+A arquitetura completa está em [10_Documentacao/arquitetura.md](10_Documentacao/arquitetura.md). O catálogo organizado por projeto está em [11_Catalogo_Jogos/](11_Catalogo_Jogos/README.md) e a [vitrine web](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) apresenta os jogos em três idiomas. O catálogo organizado por projeto está em [11_Catalogo_Jogos/](11_Catalogo_Jogos/README.md) e a [vitrine web](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) apresenta os jogos em três idiomas.
 
 ## 🔧 Ferramentas e recursos
 
