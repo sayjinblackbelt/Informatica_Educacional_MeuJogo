@@ -15,7 +15,7 @@ Este diretório reúne o inventário público dos jogos desenvolvidos pelos educ
 | [Futebol Impossível: Legends Arcade](futebol-impossivel.md) | Pedro, Yury e Kauã | Melhorias prioritárias |
 | [Xerifes vs Furtivos](xerifes-vs-furtivos.md) | Ruan | Link informado; validar |
 | [A Floresta Mágica](a-floresta-magica.md) | Vitória e Kaylane | Ampliar duração |
-| [Marlon: A Cidade Destruída](marlon-cidade-destruida.md) | Nicolas | Link informado; validar |
+| [Marlon: A Cidade Destruída](marlon-cidade-destruida.md) | Nicolas e Apolo | Link informado; validar |
 
 ## Projeto complementar do educador
 
