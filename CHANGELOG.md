@@ -23,6 +23,9 @@
 - Corrigido texto inconsistente no eixo de ferramentas digitais do plano de curso.
 - Criada validação automatizada de HTML, links locais, IDs, textos alternativos e sintaxe JavaScript antes da publicação.
 
+- Ajustadas as referências etárias para refletir a faixa de 9 a 14 anos atendida neste ciclo.
+- Removidas citações temporárias do ChatGPT e substituídas por referências públicas diretas; corrigido o índice de recursos para corresponder à estrutura existente.
+
 ## 2026-09-04
 
 ### Reorganização e sanitização
