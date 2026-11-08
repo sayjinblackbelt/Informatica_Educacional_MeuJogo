@@ -12,7 +12,7 @@ El repositorio público debe ser reutilizable y respetar la privacidad. No publi
 
 ## Propósito y público
 
-El proyecto desarrolla autonomía digital mediante experiencias prácticas en las que los estudiantes utilizan computadoras, organizan archivos, crean contenidos digitales, investigan de forma responsable, resuelven problemas y desarrollan proyectos. La referencia principal es de aproximadamente 11 a 13 años; las actividades pueden adaptarse a otros contextos y necesidades de aprendizaje.
+El proyecto desarrolla autonomía digital mediante experiencias prácticas en las que los estudiantes utilizan computadoras, organizan archivos, crean contenidos digitales, investigan de forma responsable, resuelven problemas y desarrollan proyectos. La referencia principal es de aproximadamente 9 a 14 años; las actividades pueden adaptarse a otros contextos y necesidades de aprendizaje.
 
 ## Enfoque pedagógico
 
