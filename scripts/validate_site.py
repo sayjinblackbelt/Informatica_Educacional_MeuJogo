@@ -2,6 +2,7 @@
 """Static quality checks for the GitHub Pages site. Uses only Python stdlib."""
 from html.parser import HTMLParser
 from pathlib import Path
+import re
 import subprocess
 import tempfile
 import sys
@@ -11,28 +12,33 @@ SITE = ROOT / "site"
 PAGES = [SITE / "index.html", SITE / "mostra-cultural.html"]
 
 class AuditParser(HTMLParser):
-    def __init__(self, page):
+    def __init__(self):
         super().__init__(convert_charrefs=True)
-        self.page = page
         self.ids = set()
+        self.references = []
         self.errors = []
         self.scripts = []
         self.in_script = False
         self.script_parts = []
 
     def handle_starttag(self, tag, attrs):
-        a = dict(attrs)
-        if "id" in a:
-            if a["id"] in self.ids:
-                self.errors.append(f"ID duplicado: {a['id']}")
-            self.ids.add(a["id"])
-        if tag == "img" and not a.get("alt", "").strip():
+        attrs = dict(attrs)
+        if attrs.get("id"):
+            if attrs["id"] in self.ids:
+                self.errors.append(f"ID duplicado: {attrs['id']}")
+            self.ids.add(attrs["id"])
+        if tag == "img" and not attrs.get("alt", "").strip():
             self.errors.append("Imagem sem texto alternativo (alt).")
-        if tag == "a" and a.get("target") == "_blank":
-            rel = set(a.get("rel", "").lower().split())
-            if not {"noopener", "noreferrer"}.issubset(rel):
-                self.errors.append("Link target=_blank sem rel noopener noreferrer.")
-        if tag == "script" and not a.get("src"):
+        if tag == "a":
+            if attrs.get("href"):
+                self.references.append(("href", attrs["href"]))
+            if attrs.get("target") == "_blank":
+                rel = set(attrs.get("rel", "").lower().split())
+                if not {"noopener", "noreferrer"}.issubset(rel):
+                    self.errors.append("Link target=_blank sem rel noopener noreferrer.")
+        if tag in {"img", "script"} and attrs.get("src"):
+            self.references.append(("src", attrs["src"]))
+        if tag == "script" and not attrs.get("src"):
             self.in_script = True
             self.script_parts = []
 
@@ -46,24 +52,30 @@ class AuditParser(HTMLParser):
             self.script_parts.append(data)
 
 def check_page(page):
-    parser = AuditParser(page)
-    parser.feed(page.read_text(encoding="utf-8"))
+    source = page.read_text(encoding="utf-8")
+    parser = AuditParser()
+    parser.feed(source)
     parser.close()
     errors = list(parser.errors)
-    for tag in parser.find_all if False else []:
-        pass
-    source = page.read_text(encoding="utf-8")
-    for match in __import__("re").finditer(r'\b(?:href|src)=[\'"]([^\'"]+)[\'"]', source):
-        value = match.group(1).strip()
+
+    if not re.search(r"<title>\s*.+?\s*</title>", source, re.I | re.S):
+        errors.append("Título da página ausente.")
+    if 'name="viewport"' not in source.lower():
+        errors.append("Meta viewport ausente.")
+
+    for kind, value in parser.references:
+        value = value.strip()
         if not value or value.startswith(("http://", "https://", "mailto:", "tel:", "data:", "javascript:")):
             continue
         if value.startswith("#"):
             if value[1:] and value[1:] not in parser.ids:
                 errors.append(f"Âncora inexistente: {value}")
             continue
-        target = (page.parent / value.split("#", 1)[0].split("?", 1)[0]).resolve()
+        local_path = value.split("#", 1)[0].split("?", 1)[0]
+        target = (page.parent / local_path).resolve()
         if not target.exists():
-            errors.append(f"Recurso local inexistente: {value}")
+            errors.append(f"Recurso local inexistente ({kind}): {value}")
+
     if not parser.scripts:
         errors.append("Nenhum script inline encontrado para verificação.")
     for number, script in enumerate(parser.scripts, 1):
@@ -88,7 +100,7 @@ def main():
     if failures:
         print("\n".join(f"ERRO: {item}" for item in failures), file=sys.stderr)
         return 1
-    print("Validação concluída: HTML estrutural, IDs, links locais, alt, segurança de links externos e sintaxe JavaScript.")
+    print("Validação concluída: HTML, IDs, links locais, alt, segurança de links externos e sintaxe JavaScript.")
     return 0
 
 if __name__ == "__main__":
