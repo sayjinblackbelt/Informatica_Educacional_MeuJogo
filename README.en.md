@@ -12,7 +12,7 @@ The public repository should remain reusable and privacy-conscious. Do not publi
 
 ## Purpose and audience
 
-The project builds digital autonomy through practical experiences in which learners use computers, organize files, create digital content, research responsibly, solve problems and develop projects. The main reference audience is approximately 11–13 years old; activities can be adapted to other contexts and learning needs.
+The project builds digital autonomy through practical experiences in which learners use computers, organize files, create digital content, research responsibly, solve problems and develop projects. The main reference audience is approximately 9–14 years old; activities can be adapted to other contexts and learning needs.
 
 ## Pedagogical approach
 
