@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-08
+
+### Vitrine e navegação
+
+- Corrigidas quebras de linha literais no HTML da vitrine.
+- Cada cartão agora direciona à ficha individual correspondente no catálogo.
+- Incluído atalho de teclado para pular diretamente aos jogos e rótulos acessíveis nos seletores de idioma.
+- Traduzidos os rótulos de acesso rápido à vitrine e à apresentação nos três idiomas.
+- Corrigida a autoria de Marlon: A Cidade Destruída na apresentação da Mostra Cultural; crédito público apenas para Nicolas.
+
+
 ## 2026-09-04
 
 ### Reorganização e sanitização
