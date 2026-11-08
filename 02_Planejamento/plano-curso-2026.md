@@ -4,7 +4,7 @@
 
 - **Oficina:** Informática Educacional
 - **Responsável pedagógico:** equipe educacional
-- **Público principal:** educandos de 11 a 13 anos
+- **Público principal:** educandos de 9 a 14 anos
 - **Formato:** aulas presenciais em ambiente de aprendizagem com recursos computacionais
 - **Estrutura:** computador disponível para cada educando, sempre que possível
 - **Período:** ano letivo de 2026
