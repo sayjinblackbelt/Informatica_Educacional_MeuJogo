@@ -27,7 +27,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Validate website\n        run: python scripts/validate_site.py\n      - name: Configure Pages
+      - name: Validate website
+        run: python scripts/validate_site.py
+      - name: Configure Pages
         uses: actions/configure-pages@v5
         with:
           # Provisiona o GitHub Pages na primeira execução, se ainda não existir.
