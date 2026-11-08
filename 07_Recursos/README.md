@@ -15,11 +15,7 @@ Este diretório reúne recursos reutilizáveis para apoiar as aulas e o desenvol
 ├── README.md
 ├── gamificacao.md
 ├── guia-de-recursos.md
-├── checklist-recursos.md
-├── modelos/
-├── atividades/
-├── checklists/
-└── referencias/
+└── checklist-recursos.md
 ```
 
 ## Critério de inclusão
