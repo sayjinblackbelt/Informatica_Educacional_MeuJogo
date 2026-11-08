@@ -24,7 +24,7 @@ Registrar a finalidade do recurso, e não apenas o nome da ferramenta.
 
 Não assumir que um material encontrado na internet é livre para reutilização. Verificar domínio público, licença ou autorização de uso.
 
-Recursos com licenças abertas podem facilitar reutilização, adaptação e compartilhamento, conforme as condições da licença. Creative Commons recomenda verificar a licença e as permissões antes de reutilizar ou adaptar materiais. citeturn0search0turn0search8
+Recursos com licenças abertas podem facilitar reutilização, adaptação e compartilhamento, conforme as condições da licença. Consulte as [licenças Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) e verifique as permissões e condições específicas antes de reutilizar ou adaptar materiais.
 
 ## 4. Acessibilidade
 
