@@ -1,6 +1,6 @@
 # Catálogo de Jogos — Informática Educacional 2026
 
-Este diretório reúne o inventário público dos jogos desenvolvidos pelos educandos com apoio do Instaplay e o projeto complementar criado pelo educador.
+Este diretório reúne o inventário público dos jogos desenvolvidos pelos educandos com apoio do Instaplay e os projetos complementares criados pelo educador.
 
 - [Abrir a vitrine web dos jogos](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) — página publicada pelo GitHub Pages.
 - [Voltar ao README principal](../README.md).
