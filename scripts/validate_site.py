@@ -6,6 +6,7 @@ import re
 import subprocess
 import tempfile
 import sys
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
@@ -75,6 +76,24 @@ def check_page(page):
         target = (page.parent / local_path).resolve()
         if not target.exists():
             errors.append(f"Recurso local inexistente ({kind}): {value}")
+        elif target.suffix.lower() == ".svg":
+            try:
+                ET.parse(target)
+            except ET.ParseError as exc:
+                errors.append(f"SVG inválido ({value}): {exc}")
+
+    for doc in re.findall(r'doc:"([^"]+\.md)"', source):
+        if not (ROOT / "11_Catalogo_Jogos" / doc).is_file():
+            errors.append(f"Ficha de catálogo inexistente: {doc}")
+    for cover in re.findall(r'cover:"([^"]+)"', source):
+        asset = SITE / "assets" / "capas" / f"{cover}.svg"
+        if not asset.is_file():
+            errors.append(f"Capa de projeto inexistente: {asset.relative_to(ROOT)}")
+        else:
+            try:
+                ET.parse(asset)
+            except ET.ParseError as exc:
+                errors.append(f"SVG inválido ({asset.relative_to(ROOT)}): {exc}")
 
     if not parser.scripts:
         errors.append("Nenhum script inline encontrado para verificação.")
