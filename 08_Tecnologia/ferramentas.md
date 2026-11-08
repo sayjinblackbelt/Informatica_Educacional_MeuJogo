@@ -53,7 +53,7 @@ Não registrar no repositório:
 - dados de acesso;
 - dados pessoais de educandos.
 
-Segredos devem ser armazenados em mecanismos apropriados, nunca diretamente no código ou em arquivos públicos. citeturn0search6
+Segredos devem ser armazenados em mecanismos apropriados, nunca diretamente no código ou em arquivos públicos. Consulte a [documentação do GitHub sobre secret scanning](https://docs.github.com/en/code-security/secret-scanning/introduction/about-secret-scanning).
 
 ## Dependências
 
