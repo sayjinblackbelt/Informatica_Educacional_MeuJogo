@@ -11,6 +11,12 @@
 - Corrigida a autoria de Marlon: A Cidade Destruída na apresentação da Mostra Cultural; crédito público apenas para Nicolas.
 
 
+## 2026-11-08 — Catálogo ampliado
+
+- Adicionado NEXUS Sushi Bar como segundo projeto complementar do educador, separado dos jogos dos educandos.
+- Incluída ficha individual com descrição, versão e observação sobre validação manual pendente.
+- Atualizada a vitrine para apresentar o novo projeto em português, inglês e espanhol e contabilizar dois projetos complementares.
+
 ## 2026-09-04
 
 ### Reorganização e sanitização
