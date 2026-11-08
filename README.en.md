@@ -34,7 +34,7 @@ The creative sequence is:
 
 ## 🎮 2026 game showcase
 
-The project documents seven games created by learners with support from Instaplay and a complementary chess project created by the educator.
+The project documents seven games created by learners with support from Instaplay and two complementary projects created by the educator.
 
 | Game | Public credit | Status recorded |
 |---|---|---|
@@ -46,6 +46,7 @@ The project documents seven games created by learners with support from Instapla
 | [The Magic Forest](https://www.instaplay.ai/play/acb8330c?ref=cybercrow87) | Vitória and Kaylane | Extend gameplay |
 | [Marlon: The Destroyed City](https://www.instaplay.ai/play/6059be55?ref=cybercrow87) | Nicolas | Link recorded; validate |
 | [NEXUS Chess](https://nexus-chess.base44.app) | Educator | Complementary project |
+| [NEXUS Sushi Bar](https://sayjinblackbelt.github.io/nexus-sushi-bar/) | Educator | Pixel-art simulation; version 4.0.0 documented, hands-on device testing pending |
 
 “Link recorded” does not mean every game mechanic has been tested. The [individual project records](11_Catalogo_Jogos/README.md) track concepts, planned checks and next steps. The [web showcase](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) provides a responsive three-language entry point.
 
