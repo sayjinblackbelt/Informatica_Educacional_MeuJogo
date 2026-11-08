@@ -34,7 +34,7 @@ La secuencia creativa es:
 
 ## 🎮 Muestra de juegos — 2026
 
-El proyecto documenta siete juegos creados por estudiantes con apoyo de Instaplay y un proyecto complementario de ajedrez creado por el educador.
+El proyecto documenta siete juegos creados por estudiantes con apoyo de Instaplay y dos proyectos complementarios creados por el educador.
 
 | Juego | Créditos públicos | Estado registrado |
 |---|---|---|
@@ -46,6 +46,7 @@ El proyecto documenta siete juegos creados por estudiantes con apoyo de Instapla
 | [El bosque mágico](https://www.instaplay.ai/play/acb8330c?ref=cybercrow87) | Vitória y Kaylane | Ampliar duración |
 | [Marlon: La ciudad destruida](https://www.instaplay.ai/play/6059be55?ref=cybercrow87) | Nicolas | Enlace registrado; validar |
 | [NEXUS Chess](https://nexus-chess.base44.app) | Educador | Proyecto complementario |
+| [NEXUS Sushi Bar](https://sayjinblackbelt.github.io/nexus-sushi-bar/) | Educador | Simulación en pixel art; versión 4.0.0 documentada, pruebas manuales en dispositivos pendientes |
 
 “Enlace registrado” no significa que se hayan probado todas las mecánicas. Las [fichas individuales de los proyectos](11_Catalogo_Jogos/README.md) documentan conceptos, comprobaciones pendientes y próximos pasos. La [muestra web](https://sayjinblackbelt.github.io/Informatica_Educacional_MeuJogo/) ofrece una página de entrada adaptable en tres idiomas.
 
