@@ -51,9 +51,9 @@ Bloco de Notas, digitação, acentuação, pontuação, atalhos básicos e produ
 
 Navegação, pesquisa, fontes, segurança, privacidade, ética digital, cuidados com dados pessoais e comportamento responsável online.
 
-### Eixo 5 — Ferramentas ferramentas digitais
+### Eixo 5 — Ferramentas digitais
 
-Introdução progressiva a conta ferramentas digitais, Drive, Documentos, Apresentações e Planilhas, conforme o nível da turma.
+Introdução progressiva a ferramentas de produtividade e criação, como armazenamento em nuvem, editores de texto, apresentações e planilhas, conforme o nível da turma e a disponibilidade de contas e recursos.
 
 ### Eixo 6 — Criatividade e projeto
 
