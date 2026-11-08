@@ -70,7 +70,7 @@ Os projetos podem ser realizados individualmente, em duplas ou em pequenos grupo
 
 ## 🕹️ Catálogo de jogos — Informática Educacional 2026
 
-Esta seção registra os jogos desenvolvidos pelos educandos com apoio do Instaplay e o projeto complementar criado pelo educador. Os links abaixo foram informados para documentação; a inclusão no catálogo **não significa que todas as funcionalidades tenham sido testadas ou validadas**.
+Esta seção registra os jogos desenvolvidos pelos educandos com apoio do Instaplay e os projetos complementares criados pelo educador. Os links abaixo foram informados para documentação; a inclusão no catálogo **não significa que todas as funcionalidades tenham sido testadas ou validadas**.
 
 ### Jogos desenvolvidos pelos educandos
 
@@ -89,6 +89,7 @@ Esta seção registra os jogos desenvolvidos pelos educandos com apoio do Instap
 | Projeto | Autoria | Descrição | Situação |
 |---|---|---|---|
 | [NEXUS Chess](https://nexus-chess.base44.app) | Educador | Xadrez digital criado como recurso complementar para experiências de aprendizagem. | Publicado; manter separado dos jogos de autoria dos educandos. |
+| [NEXUS Sushi Bar](https://sayjinblackbelt.github.io/nexus-sushi-bar/) | Educador | Simulação em pixel art com exploração submarina durante o dia e administração de sushi bar e casa de chá à noite. | Versão 4.0.0 documentada; validação manual em dispositivos reais pendente. |
 
 ### Pendências de acompanhamento
 
