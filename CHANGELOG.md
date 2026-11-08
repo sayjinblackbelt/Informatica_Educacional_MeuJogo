@@ -17,6 +17,12 @@
 - Incluída ficha individual com descrição, versão e observação sobre validação manual pendente.
 - Atualizada a vitrine para apresentar o novo projeto em português, inglês e espanhol e contabilizar dois projetos complementares.
 
+- Refinada a vitrine com identidade visual própria para NEXUS Sushi Bar, grade de capas reorganizada e efeitos de interação com respeito à preferência por movimento reduzido.
+- Corrigido link de documentação no rodapé e falha de renderização no carrossel da Mostra Cultural.
+- Adicionado NEXUS Sushi Bar à apresentação da Mostra Cultural e atualizados os READMEs em inglês e espanhol.
+- Corrigido texto inconsistente no eixo de ferramentas digitais do plano de curso.
+- Criada validação automatizada de HTML, links locais, IDs, textos alternativos e sintaxe JavaScript antes da publicação.
+
 ## 2026-09-04
 
 ### Reorganização e sanitização
