@@ -20,6 +20,7 @@ Este diretório reúne o inventário público dos jogos desenvolvidos pelos educ
 ## Projeto complementar do educador
 
 - [NEXUS Chess](nexus-chess.md) — recurso digital de xadrez criado pelo educador, documentado separadamente dos projetos dos educandos.
+- [NEXUS Sushi Bar](nexus-sushi-bar.md) — jogo de simulação em pixel art que combina exploração submarina e administração de restaurante, desenvolvido pelo educador.
 
 ## Projetos ainda a identificar
 
